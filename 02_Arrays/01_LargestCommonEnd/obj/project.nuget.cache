@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a9yASX+qDBlEH1IGIuiKBLzZZtCSquKF0FZvoxTQciKM6870Dwuok7OSP08MiC5IEarFUjR8Um0z8tAzJkUmug==",
+  "dgSpecHash": "GJaGZR+k5a/Ka1NPu0X1SVFFkv0TNDD6JZ8HN+wxuHHay0ZUYjjNQ13dp5Bw/bAmywaT54IZCauAXoLbKEbgeA==",
   "success": true,
-  "projectFilePath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\01_LargestCommonEnd\\01_LargestCommonEnd.csproj",
+  "projectFilePath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\01_LargestCommonEnd\\01_LargestCommonEnd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

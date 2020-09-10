@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\02_Arrays\\02_RotateAndSum\\02_RotateAndSum.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\02_RotateAndSum\\02_RotateAndSum.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\02_Arrays\\02_RotateAndSum\\02_RotateAndSum.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\02_RotateAndSum\\02_RotateAndSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\02_Arrays\\02_RotateAndSum\\02_RotateAndSum.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\02_RotateAndSum\\02_RotateAndSum.csproj",
         "projectName": "02_RotateAndSum",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\02_RotateAndSum\\02_RotateAndSum.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\02_RotateAndSum\\02_RotateAndSum.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\02_RotateAndSum\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\02_RotateAndSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

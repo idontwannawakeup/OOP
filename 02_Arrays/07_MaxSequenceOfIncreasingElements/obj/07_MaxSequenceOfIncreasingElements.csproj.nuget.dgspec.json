@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\07_MaxSequenceOfIncreasingElements.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\07_MaxSequenceOfIncreasingElements.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\07_MaxSequenceOfIncreasingElements.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\07_MaxSequenceOfIncreasingElements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\07_MaxSequenceOfIncreasingElements.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\07_MaxSequenceOfIncreasingElements.csproj",
         "projectName": "07_MaxSequenceOfIncreasingElements",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\07_MaxSequenceOfIncreasingElements.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\07_MaxSequenceOfIncreasingElements.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\07_MaxSequenceOfIncreasingElements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

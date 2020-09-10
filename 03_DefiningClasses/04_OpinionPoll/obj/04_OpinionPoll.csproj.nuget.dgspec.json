@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\04_OpinionPoll\\04_OpinionPoll.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\04_OpinionPoll\\04_OpinionPoll.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\04_OpinionPoll\\04_OpinionPoll.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\04_OpinionPoll\\04_OpinionPoll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\04_OpinionPoll\\04_OpinionPoll.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\04_OpinionPoll\\04_OpinionPoll.csproj",
         "projectName": "04_OpinionPoll",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\04_OpinionPoll\\04_OpinionPoll.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\04_OpinionPoll\\04_OpinionPoll.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\04_OpinionPoll\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\04_OpinionPoll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\01_ClassPerson\\01_ClassPerson.csproj",
+      "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\01_ClassPerson\\01_ClassPerson.csproj",
       "projectName": "01_ClassPerson",
-      "projectPath": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\01_ClassPerson\\01_ClassPerson.csproj",
+      "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\01_ClassPerson\\01_ClassPerson.csproj",
       "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-      "outputPath": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\01_ClassPerson\\obj\\",
+      "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\01_ClassPerson\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

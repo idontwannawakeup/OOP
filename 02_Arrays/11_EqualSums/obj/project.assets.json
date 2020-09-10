@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studying\\OOP\\Labs\\02_Arrays\\11_EqualSums\\11_EqualSums.csproj",
+      "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\11_EqualSums\\11_EqualSums.csproj",
       "projectName": "11_EqualSums",
-      "projectPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\11_EqualSums\\11_EqualSums.csproj",
+      "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\11_EqualSums\\11_EqualSums.csproj",
       "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-      "outputPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\11_EqualSums\\obj\\",
+      "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\11_EqualSums\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\02_Arrays\\09_IndexOfLetters\\09_IndexOfLetters.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\09_IndexOfLetters\\09_IndexOfLetters.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\02_Arrays\\09_IndexOfLetters\\09_IndexOfLetters.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\09_IndexOfLetters\\09_IndexOfLetters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\02_Arrays\\09_IndexOfLetters\\09_IndexOfLetters.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\09_IndexOfLetters\\09_IndexOfLetters.csproj",
         "projectName": "09_IndexOfLetters",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\09_IndexOfLetters\\09_IndexOfLetters.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\09_IndexOfLetters\\09_IndexOfLetters.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\09_IndexOfLetters\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\09_IndexOfLetters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r8ph06Bfja5iIBBvPLMwixi3ly8JCogn4u6urFnIHoJa2BrOdTJinlCCQ0W8p9ILocW7EzMhRw9EN3gMuau8UA==",
+  "dgSpecHash": "4gfLu21oDFM4G9n0rof49H4lzhO/56V8DK5Q0K9a/cv6uhpi+TKd7yIqrlICuJ8AV0xeWcM/C8BCQgLp+fetbQ==",
   "success": true,
-  "projectFilePath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\06_MaxSequenceOfEqualElements\\06_MaxSequenceOfEqualElements.csproj",
+  "projectFilePath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\06_MaxSequenceOfEqualElements\\06_MaxSequenceOfEqualElements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

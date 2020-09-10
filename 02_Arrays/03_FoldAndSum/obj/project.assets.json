@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studying\\OOP\\Labs\\02_Arrays\\03_FoldAndSum\\03_FoldAndSum.csproj",
+      "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\03_FoldAndSum\\03_FoldAndSum.csproj",
       "projectName": "03_FoldAndSum",
-      "projectPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\03_FoldAndSum\\03_FoldAndSum.csproj",
+      "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\03_FoldAndSum\\03_FoldAndSum.csproj",
       "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-      "outputPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\03_FoldAndSum\\obj\\",
+      "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\03_FoldAndSum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

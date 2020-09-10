@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "akWC3uPz0Mejh+Woms/16noWArJDASAsQ3ElPO06o7jEHQpdVOwRBp/Pp1tfKNhZvP/j6XIFuhB5IzY+KzHtRw==",
+  "dgSpecHash": "Vdv0y6ynLSWLC4BBf6X0fIEtmminLjTkczeqDyEkQvq4FD2nJmSvr51LOhUH/iRuRPBJ9m9rcEzLNW99tjLHng==",
   "success": true,
-  "projectFilePath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\04_SieveOfEratosthenes\\04_SieveOfEratosthenes.csproj",
+  "projectFilePath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\04_SieveOfEratosthenes\\04_SieveOfEratosthenes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

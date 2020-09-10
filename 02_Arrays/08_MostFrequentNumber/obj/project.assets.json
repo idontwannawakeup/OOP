@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studying\\OOP\\Labs\\02_Arrays\\08_MostFrequentNumber\\08_MostFrequentNumber.csproj",
+      "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\08_MostFrequentNumber\\08_MostFrequentNumber.csproj",
       "projectName": "08_MostFrequentNumber",
-      "projectPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\08_MostFrequentNumber\\08_MostFrequentNumber.csproj",
+      "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\08_MostFrequentNumber\\08_MostFrequentNumber.csproj",
       "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-      "outputPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\08_MostFrequentNumber\\obj\\",
+      "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\08_MostFrequentNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

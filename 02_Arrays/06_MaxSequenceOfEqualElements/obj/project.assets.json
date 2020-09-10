@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studying\\OOP\\Labs\\02_Arrays\\06_MaxSequenceOfEqualElements\\06_MaxSequenceOfEqualElements.csproj",
+      "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\06_MaxSequenceOfEqualElements\\06_MaxSequenceOfEqualElements.csproj",
       "projectName": "06_MaxSequenceOfEqualElements",
-      "projectPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\06_MaxSequenceOfEqualElements\\06_MaxSequenceOfEqualElements.csproj",
+      "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\06_MaxSequenceOfEqualElements\\06_MaxSequenceOfEqualElements.csproj",
       "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-      "outputPath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\06_MaxSequenceOfEqualElements\\obj\\",
+      "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\06_MaxSequenceOfEqualElements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

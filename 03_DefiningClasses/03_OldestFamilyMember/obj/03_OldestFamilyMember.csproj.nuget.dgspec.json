@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\03_OldestFamilyMember\\03_OldestFamilyMember.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\03_OldestFamilyMember\\03_OldestFamilyMember.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\03_OldestFamilyMember\\03_OldestFamilyMember.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\03_OldestFamilyMember\\03_OldestFamilyMember.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\03_OldestFamilyMember\\03_OldestFamilyMember.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\03_OldestFamilyMember\\03_OldestFamilyMember.csproj",
         "projectName": "03_OldestFamilyMember",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\03_OldestFamilyMember\\03_OldestFamilyMember.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\03_OldestFamilyMember\\03_OldestFamilyMember.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\03_OldestFamilyMember\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\03_OldestFamilyMember\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SYxrQmTOWb3fvNgfBhHKMvPr0jAX+9DJVTtDzJejrsbrHwU73KvVpJePmJv24ztlXuWs+a1Sa3395YtV6xC+NQ==",
+  "dgSpecHash": "QD02gVKgc76oqMRtITxMxC7TO04Rcr4mm6vP5SY//sQQ4Z6KsMana1q7YI3ds3AW4LFpCE02ewQWdXxSQp/Jrw==",
   "success": true,
-  "projectFilePath": "D:\\Studying\\OOP\\Labs\\02_Arrays\\03_FoldAndSum\\03_FoldAndSum.csproj",
+  "projectFilePath": "D:\\Studying\\OOP\\GitHub_Labs\\02_Arrays\\03_FoldAndSum\\03_FoldAndSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

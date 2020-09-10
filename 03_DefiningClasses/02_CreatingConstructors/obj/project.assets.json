@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\02_CreatingConstructors\\02_CreatingConstructors.csproj",
+      "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\02_CreatingConstructors\\02_CreatingConstructors.csproj",
       "projectName": "02_CreatingConstructors",
-      "projectPath": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\02_CreatingConstructors\\02_CreatingConstructors.csproj",
+      "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\02_CreatingConstructors\\02_CreatingConstructors.csproj",
       "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-      "outputPath": "D:\\Studying\\OOP\\Labs\\03_DefiningClasses\\02_CreatingConstructors\\obj\\",
+      "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\03_DefiningClasses\\02_CreatingConstructors\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",
