@@ -1,0 +1,12 @@
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.exe
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.deps.json
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.runtimeconfig.json
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.dll
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\bin\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.pdb
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.AssemblyInfo.cs
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.dll
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.pdb
+D:\Studying\OOP\Labs\02_Arrays\07_MaxSequenceOfIncreasingElements\obj\Debug\netcoreapp3.1\07_MaxSequenceOfIncreasingElements.genruntimeconfig.cache

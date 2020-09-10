@@ -1,0 +1,13 @@
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\bin\Debug\netcoreapp3.1\03_FoldAndSum.exe
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\bin\Debug\netcoreapp3.1\03_FoldAndSum.deps.json
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\bin\Debug\netcoreapp3.1\03_FoldAndSum.runtimeconfig.json
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\bin\Debug\netcoreapp3.1\03_FoldAndSum.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\bin\Debug\netcoreapp3.1\03_FoldAndSum.dll
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\bin\Debug\netcoreapp3.1\03_FoldAndSum.pdb
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\obj\Debug\netcoreapp3.1\03_FoldAndSum.csprojAssemblyReference.cache
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\obj\Debug\netcoreapp3.1\03_FoldAndSum.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\obj\Debug\netcoreapp3.1\03_FoldAndSum.AssemblyInfo.cs
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\obj\Debug\netcoreapp3.1\03_FoldAndSum.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\obj\Debug\netcoreapp3.1\03_FoldAndSum.dll
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\obj\Debug\netcoreapp3.1\03_FoldAndSum.pdb
+D:\Studying\OOP\Labs\02_Arrays\03_FoldAndSum\obj\Debug\netcoreapp3.1\03_FoldAndSum.genruntimeconfig.cache

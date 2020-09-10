@@ -1,0 +1,13 @@
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\bin\Debug\netcoreapp3.1\01_ClassPerson.exe
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\bin\Debug\netcoreapp3.1\01_ClassPerson.deps.json
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\bin\Debug\netcoreapp3.1\01_ClassPerson.runtimeconfig.json
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\bin\Debug\netcoreapp3.1\01_ClassPerson.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\bin\Debug\netcoreapp3.1\01_ClassPerson.dll
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\bin\Debug\netcoreapp3.1\01_ClassPerson.pdb
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\obj\Debug\netcoreapp3.1\01_ClassPerson.csprojAssemblyReference.cache
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\obj\Debug\netcoreapp3.1\01_ClassPerson.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\obj\Debug\netcoreapp3.1\01_ClassPerson.AssemblyInfo.cs
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\obj\Debug\netcoreapp3.1\01_ClassPerson.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\obj\Debug\netcoreapp3.1\01_ClassPerson.dll
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\obj\Debug\netcoreapp3.1\01_ClassPerson.pdb
+D:\Studying\OOP\Labs\03_DefiningClasses\01_ClassPerson\obj\Debug\netcoreapp3.1\01_ClassPerson.genruntimeconfig.cache

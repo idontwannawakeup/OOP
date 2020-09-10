@@ -1,0 +1,12 @@
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\bin\Debug\netcoreapp3.1\04_SignOfProduct.exe
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\bin\Debug\netcoreapp3.1\04_SignOfProduct.deps.json
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\bin\Debug\netcoreapp3.1\04_SignOfProduct.runtimeconfig.json
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\bin\Debug\netcoreapp3.1\04_SignOfProduct.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\bin\Debug\netcoreapp3.1\04_SignOfProduct.dll
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\bin\Debug\netcoreapp3.1\04_SignOfProduct.pdb
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\obj\Debug\netcoreapp3.1\04_SignOfProduct.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\obj\Debug\netcoreapp3.1\04_SignOfProduct.AssemblyInfo.cs
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\obj\Debug\netcoreapp3.1\04_SignOfProduct.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\obj\Debug\netcoreapp3.1\04_SignOfProduct.dll
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\obj\Debug\netcoreapp3.1\04_SignOfProduct.pdb
+D:\Studying\OOP\Labs\01_Introduction\04_SignOfProduct\obj\Debug\netcoreapp3.1\04_SignOfProduct.genruntimeconfig.cache

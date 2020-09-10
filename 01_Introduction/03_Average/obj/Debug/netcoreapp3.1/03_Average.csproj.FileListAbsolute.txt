@@ -1,0 +1,12 @@
+D:\Studying\OOP\Labs\01_Introduction\03_Average\bin\Debug\netcoreapp3.1\03_Average.exe
+D:\Studying\OOP\Labs\01_Introduction\03_Average\bin\Debug\netcoreapp3.1\03_Average.deps.json
+D:\Studying\OOP\Labs\01_Introduction\03_Average\bin\Debug\netcoreapp3.1\03_Average.runtimeconfig.json
+D:\Studying\OOP\Labs\01_Introduction\03_Average\bin\Debug\netcoreapp3.1\03_Average.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\01_Introduction\03_Average\bin\Debug\netcoreapp3.1\03_Average.dll
+D:\Studying\OOP\Labs\01_Introduction\03_Average\bin\Debug\netcoreapp3.1\03_Average.pdb
+D:\Studying\OOP\Labs\01_Introduction\03_Average\obj\Debug\netcoreapp3.1\03_Average.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\03_Average\obj\Debug\netcoreapp3.1\03_Average.AssemblyInfo.cs
+D:\Studying\OOP\Labs\01_Introduction\03_Average\obj\Debug\netcoreapp3.1\03_Average.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\03_Average\obj\Debug\netcoreapp3.1\03_Average.dll
+D:\Studying\OOP\Labs\01_Introduction\03_Average\obj\Debug\netcoreapp3.1\03_Average.pdb
+D:\Studying\OOP\Labs\01_Introduction\03_Average\obj\Debug\netcoreapp3.1\03_Average.genruntimeconfig.cache

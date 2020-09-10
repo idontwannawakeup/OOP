@@ -1,0 +1,13 @@
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\bin\Debug\netcoreapp3.1\01_LargestCommonEnd.exe
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\bin\Debug\netcoreapp3.1\01_LargestCommonEnd.deps.json
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\bin\Debug\netcoreapp3.1\01_LargestCommonEnd.runtimeconfig.json
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\bin\Debug\netcoreapp3.1\01_LargestCommonEnd.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\bin\Debug\netcoreapp3.1\01_LargestCommonEnd.dll
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\bin\Debug\netcoreapp3.1\01_LargestCommonEnd.pdb
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\obj\Debug\netcoreapp3.1\01_LargestCommonEnd.csprojAssemblyReference.cache
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\obj\Debug\netcoreapp3.1\01_LargestCommonEnd.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\obj\Debug\netcoreapp3.1\01_LargestCommonEnd.AssemblyInfo.cs
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\obj\Debug\netcoreapp3.1\01_LargestCommonEnd.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\obj\Debug\netcoreapp3.1\01_LargestCommonEnd.dll
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\obj\Debug\netcoreapp3.1\01_LargestCommonEnd.pdb
+D:\Studying\OOP\Labs\02_Arrays\01_LargestCommonEnd\obj\Debug\netcoreapp3.1\01_LargestCommonEnd.genruntimeconfig.cache

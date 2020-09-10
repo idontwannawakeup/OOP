@@ -1,0 +1,12 @@
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\bin\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.exe
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\bin\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.deps.json
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\bin\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.runtimeconfig.json
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\bin\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\bin\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.dll
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\bin\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.pdb
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\obj\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\obj\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.AssemblyInfo.cs
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\obj\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\obj\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.dll
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\obj\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.pdb
+D:\Studying\OOP\Labs\01_Introduction\04_NumberAsDayOfWeek\obj\Debug\netcoreapp3.1\04_NumberAsDayOfWeek.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\obj\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.csprojAssemblyReference.cache
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\obj\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\obj\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.AssemblyInfo.cs
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\obj\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\bin\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.exe
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\bin\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.deps.json
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\bin\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.runtimeconfig.json
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\bin\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\bin\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.dll
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\bin\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.pdb
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\obj\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.dll
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\obj\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.pdb
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeIntegerNumbers\obj\Debug\netcoreapp3.1\02_PracticeIntegerNumbers.genruntimeconfig.cache

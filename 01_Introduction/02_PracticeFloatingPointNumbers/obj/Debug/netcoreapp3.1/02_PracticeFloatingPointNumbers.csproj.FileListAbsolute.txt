@@ -1,0 +1,13 @@
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.exe
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.deps.json
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.runtimeconfig.json
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.dll
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\bin\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.pdb
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.csprojAssemblyReference.cache
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.AssemblyInfo.cs
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.dll
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.pdb
+D:\Studying\OOP\Labs\01_Introduction\02_PracticeFloatingPointNumbers\obj\Debug\netcoreapp3.1\02_PracticeFloatingPointNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\bin\Debug\netcoreapp3.1\08_MostFrequentNumber.exe
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\bin\Debug\netcoreapp3.1\08_MostFrequentNumber.deps.json
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\bin\Debug\netcoreapp3.1\08_MostFrequentNumber.runtimeconfig.json
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\bin\Debug\netcoreapp3.1\08_MostFrequentNumber.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\bin\Debug\netcoreapp3.1\08_MostFrequentNumber.dll
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\bin\Debug\netcoreapp3.1\08_MostFrequentNumber.pdb
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\obj\Debug\netcoreapp3.1\08_MostFrequentNumber.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\obj\Debug\netcoreapp3.1\08_MostFrequentNumber.AssemblyInfo.cs
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\obj\Debug\netcoreapp3.1\08_MostFrequentNumber.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\obj\Debug\netcoreapp3.1\08_MostFrequentNumber.dll
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\obj\Debug\netcoreapp3.1\08_MostFrequentNumber.pdb
+D:\Studying\OOP\Labs\02_Arrays\08_MostFrequentNumber\obj\Debug\netcoreapp3.1\08_MostFrequentNumber.genruntimeconfig.cache

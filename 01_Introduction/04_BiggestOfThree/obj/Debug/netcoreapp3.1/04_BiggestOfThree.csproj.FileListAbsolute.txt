@@ -1,0 +1,12 @@
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\bin\Debug\netcoreapp3.1\04_BiggestOfThree.exe
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\bin\Debug\netcoreapp3.1\04_BiggestOfThree.deps.json
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\bin\Debug\netcoreapp3.1\04_BiggestOfThree.runtimeconfig.json
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\bin\Debug\netcoreapp3.1\04_BiggestOfThree.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\bin\Debug\netcoreapp3.1\04_BiggestOfThree.dll
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\bin\Debug\netcoreapp3.1\04_BiggestOfThree.pdb
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\obj\Debug\netcoreapp3.1\04_BiggestOfThree.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\obj\Debug\netcoreapp3.1\04_BiggestOfThree.AssemblyInfo.cs
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\obj\Debug\netcoreapp3.1\04_BiggestOfThree.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\obj\Debug\netcoreapp3.1\04_BiggestOfThree.dll
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\obj\Debug\netcoreapp3.1\04_BiggestOfThree.pdb
+D:\Studying\OOP\Labs\01_Introduction\04_BiggestOfThree\obj\Debug\netcoreapp3.1\04_BiggestOfThree.genruntimeconfig.cache

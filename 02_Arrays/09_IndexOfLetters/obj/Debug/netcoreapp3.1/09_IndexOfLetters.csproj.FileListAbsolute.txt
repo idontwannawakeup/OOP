@@ -1,0 +1,12 @@
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\bin\Debug\netcoreapp3.1\09_IndexOfLetters.exe
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\bin\Debug\netcoreapp3.1\09_IndexOfLetters.deps.json
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\bin\Debug\netcoreapp3.1\09_IndexOfLetters.runtimeconfig.json
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\bin\Debug\netcoreapp3.1\09_IndexOfLetters.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\bin\Debug\netcoreapp3.1\09_IndexOfLetters.dll
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\bin\Debug\netcoreapp3.1\09_IndexOfLetters.pdb
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\obj\Debug\netcoreapp3.1\09_IndexOfLetters.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\obj\Debug\netcoreapp3.1\09_IndexOfLetters.AssemblyInfo.cs
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\obj\Debug\netcoreapp3.1\09_IndexOfLetters.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\obj\Debug\netcoreapp3.1\09_IndexOfLetters.dll
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\obj\Debug\netcoreapp3.1\09_IndexOfLetters.pdb
+D:\Studying\OOP\Labs\02_Arrays\09_IndexOfLetters\obj\Debug\netcoreapp3.1\09_IndexOfLetters.genruntimeconfig.cache

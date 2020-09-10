@@ -1,0 +1,13 @@
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\bin\Debug\netcoreapp3.1\02_RotateAndSum.exe
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\bin\Debug\netcoreapp3.1\02_RotateAndSum.deps.json
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\bin\Debug\netcoreapp3.1\02_RotateAndSum.runtimeconfig.json
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\bin\Debug\netcoreapp3.1\02_RotateAndSum.runtimeconfig.dev.json
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\bin\Debug\netcoreapp3.1\02_RotateAndSum.dll
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\bin\Debug\netcoreapp3.1\02_RotateAndSum.pdb
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\obj\Debug\netcoreapp3.1\02_RotateAndSum.csprojAssemblyReference.cache
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\obj\Debug\netcoreapp3.1\02_RotateAndSum.AssemblyInfoInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\obj\Debug\netcoreapp3.1\02_RotateAndSum.AssemblyInfo.cs
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\obj\Debug\netcoreapp3.1\02_RotateAndSum.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\obj\Debug\netcoreapp3.1\02_RotateAndSum.dll
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\obj\Debug\netcoreapp3.1\02_RotateAndSum.pdb
+D:\Studying\OOP\Labs\02_Arrays\02_RotateAndSum\obj\Debug\netcoreapp3.1\02_RotateAndSum.genruntimeconfig.cache
