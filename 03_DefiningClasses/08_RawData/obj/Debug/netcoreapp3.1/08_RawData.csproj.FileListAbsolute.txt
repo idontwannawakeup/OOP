@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\bin\Debug\netcoreapp3.1\08_RawData.exe
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\bin\Debug\netcoreapp3.1\08_RawData.deps.json
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\bin\Debug\netcoreapp3.1\08_RawData.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\bin\Debug\netcoreapp3.1\08_RawData.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\bin\Debug\netcoreapp3.1\08_RawData.dll
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\bin\Debug\netcoreapp3.1\08_RawData.pdb
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\obj\Debug\netcoreapp3.1\08_RawData.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\obj\Debug\netcoreapp3.1\08_RawData.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\obj\Debug\netcoreapp3.1\08_RawData.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\obj\Debug\netcoreapp3.1\08_RawData.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\obj\Debug\netcoreapp3.1\08_RawData.dll
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\obj\Debug\netcoreapp3.1\08_RawData.pdb
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\08_RawData\obj\Debug\netcoreapp3.1\08_RawData.genruntimeconfig.cache
