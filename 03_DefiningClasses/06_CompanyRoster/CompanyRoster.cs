@@ -147,7 +147,7 @@ namespace _06_CompanyRoster
             Console.WriteLine($"Highest Average Salary: {bestDepartment}");
             foreach (var item in employees)
             {
-                Console.WriteLine($"{item.Name} {String.Format("{0:0.00}", item.Salary)} {item.Email} {item.Age}");
+                Console.WriteLine($"{item.Name} {string.Format("{0:0.00}", item.Salary)} {item.Email} {item.Age}");
             }
 
             Console.ReadKey();
