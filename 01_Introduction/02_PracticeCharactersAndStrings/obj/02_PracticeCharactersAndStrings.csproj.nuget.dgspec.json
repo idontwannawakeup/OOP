@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\02_PracticeCharactersAndStrings.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\02_PracticeCharactersAndStrings.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\02_PracticeCharactersAndStrings.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\02_PracticeCharactersAndStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\02_PracticeCharactersAndStrings.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\02_PracticeCharactersAndStrings.csproj",
         "projectName": "02_PracticeCharactersAndStrings",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\02_PracticeCharactersAndStrings.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\02_PracticeCharactersAndStrings.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeCharactersAndStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

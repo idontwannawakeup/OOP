@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vLVWaxI9ofeo/Gf1afoVn01j0zubXD//rFPV2czb0xGqO7yyTZQWv5Kw2s5T0BDgXwHjYY8TwMidIP7vv4FO8A==",
+  "dgSpecHash": "fK4aXsPsknUfpZbmnMiqLXLH/P4eRV26JngGEqL6DjmUMrDQhyMvYpoI2mSKmEYGPuWi1w0K0/WGoJtSo8qp4A==",
   "success": true,
-  "projectFilePath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj",
+  "projectFilePath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

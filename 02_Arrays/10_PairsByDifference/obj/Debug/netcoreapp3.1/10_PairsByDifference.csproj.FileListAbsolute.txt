@@ -10,3 +10,16 @@ D:\Studying\OOP\Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_P
 D:\Studying\OOP\Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.dll
 D:\Studying\OOP\Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.pdb
 D:\Studying\OOP\Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.genruntimeconfig.cache
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\bin\Debug\netcoreapp3.1\10_PairsByDifference.exe
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\bin\Debug\netcoreapp3.1\10_PairsByDifference.deps.json
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\bin\Debug\netcoreapp3.1\10_PairsByDifference.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\bin\Debug\netcoreapp3.1\10_PairsByDifference.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\bin\Debug\netcoreapp3.1\10_PairsByDifference.dll
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\bin\Debug\netcoreapp3.1\10_PairsByDifference.pdb
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.dll
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.pdb
+D:\Studying\OOP\GitHub_Labs\02_Arrays\10_PairsByDifference\obj\Debug\netcoreapp3.1\10_PairsByDifference.genruntimeconfig.cache

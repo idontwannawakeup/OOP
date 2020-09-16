@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_BiggestOfThree\\04_BiggestOfThree.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_BiggestOfThree\\04_BiggestOfThree.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_BiggestOfThree\\04_BiggestOfThree.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_BiggestOfThree\\04_BiggestOfThree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_BiggestOfThree\\04_BiggestOfThree.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_BiggestOfThree\\04_BiggestOfThree.csproj",
         "projectName": "04_BiggestOfThree",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_BiggestOfThree\\04_BiggestOfThree.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_BiggestOfThree\\04_BiggestOfThree.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_BiggestOfThree\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_BiggestOfThree\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_NumberAsDayOfWeek\\04_NumberAsDayOfWeek.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_NumberAsDayOfWeek\\04_NumberAsDayOfWeek.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_NumberAsDayOfWeek\\04_NumberAsDayOfWeek.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_NumberAsDayOfWeek\\04_NumberAsDayOfWeek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_NumberAsDayOfWeek\\04_NumberAsDayOfWeek.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_NumberAsDayOfWeek\\04_NumberAsDayOfWeek.csproj",
         "projectName": "04_NumberAsDayOfWeek",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_NumberAsDayOfWeek\\04_NumberAsDayOfWeek.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_NumberAsDayOfWeek\\04_NumberAsDayOfWeek.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_NumberAsDayOfWeek\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_NumberAsDayOfWeek\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

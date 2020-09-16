@@ -43,22 +43,22 @@ namespace _06_CompanyRoster
             {
                 if (info.Length == 4)
                 {
-                    employees.Add(new Employee(info[0], double.Parse(info[1]), info[2], info[3]));
+                    employees.Add(new Employee(info[0], double.Parse(info[1].Replace('.', ',')), info[2], info[3]));
                 }
                 else if (info.Length == 5)
                 {
                     if (int.TryParse(info[4], out int age))
                     {
-                        employees.Add(new Employee(info[0], double.Parse(info[1]), info[2], info[3], age));
+                        employees.Add(new Employee(info[0], double.Parse(info[1].Replace('.', ',')), info[2], info[3], age));
                     }
                     else
                     {
-                        employees.Add(new Employee(info[0], double.Parse(info[1]), info[2], info[3], info[4]));
+                        employees.Add(new Employee(info[0], double.Parse(info[1].Replace('.', ',')), info[2], info[3], info[4]));
                     }
                 }
                 else if (info.Length == 6)
                 {
-                    employees.Add(new Employee(info[0], double.Parse(info[1]), info[2], info[3], info[4], int.Parse(info[5])));
+                    employees.Add(new Employee(info[0], double.Parse(info[1].Replace('.', ',')), info[2], info[3], info[4], int.Parse(info[5])));
                 }
             }
 

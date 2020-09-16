@@ -42,7 +42,8 @@ namespace _07_SpeedRacing
             for (int i = 0; i < n; i++)
             {
                 string[] input = Console.ReadLine().Split(' ');
-                carsInRacing.Add(new Car(input[0], double.Parse(input[1]), double.Parse(input[2])));
+                carsInRacing.Add(new Car(input[0], double.Parse(input[1].Replace('.', ',')),
+                                                   double.Parse(input[2].Replace('.', ','))));
             }
 
             string command = Console.ReadLine();
@@ -53,7 +54,7 @@ namespace _07_SpeedRacing
                 {
                     if (car.Model.Equals(info[1]))
                     {
-                        car.Drive(double.Parse(info[2]));
+                        car.Drive(double.Parse(info[2].Replace('.', ',')));
                         break;
                     }
                 }

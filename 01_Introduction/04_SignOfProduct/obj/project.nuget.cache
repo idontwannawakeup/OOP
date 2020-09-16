@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i8NV1yGUp8V0G09sp6/660mtQtYL0AlTn2nA4CBI0mNvjfRAHmx4zzvCKBwYTHsg7V/3h0JNW1wTPoegzuOQqA==",
+  "dgSpecHash": "uQazik6ZPr6/3XkxXwgWbmQb3ChTmqYpPmAT9T4U9T62uYz53iWaCquBUUleuwkYUErwxmrRmsI5ux+N694b8A==",
   "success": true,
-  "projectFilePath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\04_SignOfProduct\\04_SignOfProduct.csproj",
+  "projectFilePath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\04_SignOfProduct\\04_SignOfProduct.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

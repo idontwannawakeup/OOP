@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studying\\OOP\\Labs\\01_Introduction\\03_Trapezoid\\03_Trapezoid.csproj",
+      "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\03_Trapezoid\\03_Trapezoid.csproj",
       "projectName": "03_Trapezoid",
-      "projectPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\03_Trapezoid\\03_Trapezoid.csproj",
+      "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\03_Trapezoid\\03_Trapezoid.csproj",
       "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-      "outputPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\03_Trapezoid\\obj\\",
+      "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\03_Trapezoid\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

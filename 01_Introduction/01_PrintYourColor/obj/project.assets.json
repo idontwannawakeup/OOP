@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Studying\\OOP\\Labs\\01_Introduction\\01_PrintYourColor\\01_PrintYourColor.csproj",
+      "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\01_PrintYourColor\\01_PrintYourColor.csproj",
       "projectName": "01_PrintYourColor",
-      "projectPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\01_PrintYourColor\\01_PrintYourColor.csproj",
+      "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\01_PrintYourColor\\01_PrintYourColor.csproj",
       "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-      "outputPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\01_PrintYourColor\\obj\\",
+      "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\01_PrintYourColor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

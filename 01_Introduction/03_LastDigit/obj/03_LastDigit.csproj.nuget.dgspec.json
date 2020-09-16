@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj",
         "projectName": "03_LastDigit",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\03_LastDigit\\03_LastDigit.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\03_LastDigit\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\03_LastDigit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

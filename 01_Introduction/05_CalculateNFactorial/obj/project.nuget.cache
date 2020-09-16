@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIO0CUFHsYTv1M8x6wfQlMR++ogYg8c6NMl6BuwvQZJqajIbkg78Ao9jVAHK6KVkyCSvwqnv3B7Ftxnn8JXwyQ==",
+  "dgSpecHash": "CiNL3WJg8hcNBFxvkmWVHSHLxzXIRmfFgsf3vlmO7rdsLweS2Y/KNmH3uxQ3c4cLslmxSynpUrLS69gJzObslA==",
   "success": true,
-  "projectFilePath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\05_CalculateNFactorial\\05_CalculateNFactorial.csproj",
+  "projectFilePath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\05_CalculateNFactorial\\05_CalculateNFactorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

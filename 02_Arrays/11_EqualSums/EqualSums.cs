@@ -12,7 +12,7 @@ namespace _11_EqualSums
             double[] numbers = new double[n];
             for (int i = 0; i < n; i++)
             {
-                numbers[i] = double.Parse(input[i]);
+                numbers[i] = double.Parse(input[i].Replace('.', ','));
             }
 
             int idx = 0;

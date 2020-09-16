@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\02_PracticeFloatingPointNumbers.csproj": {}
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\02_PracticeFloatingPointNumbers.csproj": {}
   },
   "projects": {
-    "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\02_PracticeFloatingPointNumbers.csproj": {
+    "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\02_PracticeFloatingPointNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\02_PracticeFloatingPointNumbers.csproj",
+        "projectUniqueName": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\02_PracticeFloatingPointNumbers.csproj",
         "projectName": "02_PracticeFloatingPointNumbers",
-        "projectPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\02_PracticeFloatingPointNumbers.csproj",
+        "projectPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\02_PracticeFloatingPointNumbers.csproj",
         "packagesPath": "C:\\Users\\Василь\\.nuget\\packages\\",
-        "outputPath": "D:\\Studying\\OOP\\Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\obj\\",
+        "outputPath": "D:\\Studying\\OOP\\GitHub_Labs\\01_Introduction\\02_PracticeFloatingPointNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Василь\\AppData\\Roaming\\NuGet\\NuGet.Config",

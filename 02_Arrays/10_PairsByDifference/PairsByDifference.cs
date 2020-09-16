@@ -8,12 +8,12 @@ namespace _10_PairsByDifference
         {
             string[] input = Console.ReadLine().Split(' ');
             int n = input.Length;
-            double difference = double.Parse(Console.ReadLine());
+            double difference = double.Parse(Console.ReadLine().Replace('.', ','));
 
             double[] numbers = new double[n];
             for (int i = 0; i < n; i++)
             {
-                numbers[i] = double.Parse(input[i]);
+                numbers[i] = double.Parse(input[i].Replace('.', ','));
             }
 
             int count = 0;
