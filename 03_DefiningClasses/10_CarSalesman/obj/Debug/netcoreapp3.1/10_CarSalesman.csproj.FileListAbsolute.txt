@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\bin\Debug\netcoreapp3.1\10_CarSalesman.exe
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\bin\Debug\netcoreapp3.1\10_CarSalesman.deps.json
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\bin\Debug\netcoreapp3.1\10_CarSalesman.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\bin\Debug\netcoreapp3.1\10_CarSalesman.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\bin\Debug\netcoreapp3.1\10_CarSalesman.dll
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\bin\Debug\netcoreapp3.1\10_CarSalesman.pdb
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\obj\Debug\netcoreapp3.1\10_CarSalesman.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\obj\Debug\netcoreapp3.1\10_CarSalesman.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\obj\Debug\netcoreapp3.1\10_CarSalesman.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\obj\Debug\netcoreapp3.1\10_CarSalesman.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\obj\Debug\netcoreapp3.1\10_CarSalesman.dll
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\obj\Debug\netcoreapp3.1\10_CarSalesman.pdb
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\10_CarSalesman\obj\Debug\netcoreapp3.1\10_CarSalesman.genruntimeconfig.cache
