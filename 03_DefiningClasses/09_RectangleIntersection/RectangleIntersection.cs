@@ -26,7 +26,7 @@ namespace _09_RectangleIntersection
             public int Height { get; }
             public Coordinates LeftTopCorner { get => leftTopCorner; }
 
-            public Coordinates CalculateBottomRightCorner()
+            public Coordinates CalculateRightBottomCorner()
             {
                 return new Coordinates(leftTopCorner.x + Width, leftTopCorner.y - Height);
             }
@@ -42,8 +42,8 @@ namespace _09_RectangleIntersection
             public bool CheckIntersection(Rectangle other)
             {
                 var thisLeftTop = LeftTopCorner;
-                var thisRightBottom = CalculateBottomRightCorner();
-                var otherRightBottom = other.CalculateBottomRightCorner();
+                var thisRightBottom = CalculateRightBottomCorner();
+                var otherRightBottom = other.CalculateRightBottomCorner();
 
                 // otherRightBottom should be between thisLeftTop and thisRightBottom
                 return otherRightBottom.x <= thisRightBottom.x && otherRightBottom.y >= thisRightBottom.y &&
