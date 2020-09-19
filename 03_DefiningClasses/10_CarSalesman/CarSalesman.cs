@@ -14,21 +14,11 @@ namespace _10_CarSalesman
 
             public override string ToString()
             {
-                string result = "";
-
-                result += $"{Model}:\n";
-                result += $"    Power: {Power}\n";
-                if (Displacement == -1)
-                {
-                    result += $"    Displacement: n/a\n";
-                }
-                else
-                {
-                    result += $"    Displacement: {Displacement}\n";
-                }
-                result += $"    Efficiency: {Efficiency}";
-
-                return result;
+                string strDisplacement = Displacement == -1 ? "n/a" : $"{Displacement}";
+                return new string($"{Model}:\n" +
+                                  $"    Power: {Power}\n" +
+                                  $"    Displacement: {strDisplacement}\n" +
+                                  $"    Efficiency: {Efficiency}");
             }
 
             public Engine(string model, int power)
@@ -58,21 +48,11 @@ namespace _10_CarSalesman
 
             public override string ToString()
             {
-                string result = "";
-
-                result += $"{Model}:\n";
-                result += new string($"  {CarEngine}\n");
-                if (Weight == -1)
-                {
-                    result += $"  Weight: n/a\n";
-                }
-                else
-                {
-                    result += $"  Weight: {Weight}\n";
-                }
-                result += $"  Color: {Color}";
-
-                return result;
+                string strWeight = Weight == -1 ? "n/a" : $"{Weight}";
+                return new string($"{Model}:\n" +
+                                  $"  {CarEngine}\n" +
+                                  $"  Weight: {strWeight}\n" +
+                                  $"  Color: {Color}");
             }
 
             public Car(string model, Engine engine)
@@ -100,24 +80,21 @@ namespace _10_CarSalesman
             for (int i = 0; i < n; i++)
             {
                 string[] info = Console.ReadLine().Split(' ');
-                switch(info.Length)
+                if (info.Length == 2)
                 {
-                    case 2:
-                        engines.Add(new Engine(info[0], int.Parse(info[1])));
-                        break;
-                    case 3:
-                        if (int.TryParse(info[2], out int displacement))
-                        {
-                            engines.Add(new Engine(info[0], int.Parse(info[1]), displacement));
-                        }
-                        else
-                        {
-                            engines.Add(new Engine(info[0], int.Parse(info[1]), info[2]));
-                        }
-                        break;
-                    case 4:
-                        engines.Add(new Engine(info[0], int.Parse(info[1]), int.Parse(info[2]), info[3]));
-                        break;
+                    engines.Add(new Engine(info[0], int.Parse(info[1])));
+                }
+                else if (info.Length == 3 && int.TryParse(info[2], out int displacement))
+                {
+                    engines.Add(new Engine(info[0], int.Parse(info[1]), displacement));
+                }
+                else if (info.Length == 3)
+                {
+                    engines.Add(new Engine(info[0], int.Parse(info[1]), info[2]));
+                }
+                else if (info.Length == 4)
+                {
+                    engines.Add(new Engine(info[0], int.Parse(info[1]), int.Parse(info[2]), info[3]));
                 }
             }
 
@@ -136,24 +113,21 @@ namespace _10_CarSalesman
                     }
                 }
 
-                switch (info.Length)
+                if (info.Length == 2)
                 {
-                    case 2:
-                        cars.Add(new Car(model, newCarEngine));
-                        break;
-                    case 3:
-                        if (int.TryParse(info[2], out int weight))
-                        {
-                            cars.Add(new Car(model, newCarEngine, weight));
-                        }
-                        else
-                        {
-                            cars.Add(new Car(model, newCarEngine, info[2]));
-                        }
-                        break;
-                    case 4:
-                        cars.Add(new Car(model, newCarEngine, int.Parse(info[2]), info[3]));
-                        break;
+                    cars.Add(new Car(model, newCarEngine));
+                }
+                else if (info.Length == 3 && int.TryParse(info[2], out int weight))
+                {
+                    cars.Add(new Car(model, newCarEngine, weight));
+                }
+                else if (info.Length == 3)
+                {
+                    cars.Add(new Car(model, newCarEngine, info[2]));
+                }
+                else if (info.Length == 4)
+                {
+                    cars.Add(new Car(model, newCarEngine, int.Parse(info[2]), info[3]));
                 }
             }
 
