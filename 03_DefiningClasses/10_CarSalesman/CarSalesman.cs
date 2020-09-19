@@ -16,7 +16,8 @@ namespace _10_CarSalesman
             {
                 string result = "";
 
-                result += $"{Model}:\n    Power: {Power}\n";
+                result += $"{Model}:\n";
+                result += $"    Power: {Power}\n";
                 if (Displacement == -1)
                 {
                     result += $"    Displacement: n/a\n";
@@ -158,7 +159,7 @@ namespace _10_CarSalesman
 
             foreach (var car in cars)
             {
-                Console.WriteLine($"{car}");
+                Console.WriteLine(car);
             }
 
             Console.ReadKey();
