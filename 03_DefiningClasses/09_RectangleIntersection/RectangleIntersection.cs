@@ -43,11 +43,15 @@ namespace _09_RectangleIntersection
             {
                 var thisLeftTop = LeftTopCorner;
                 var thisRightBottom = CalculateRightBottomCorner();
+                var otherLeftTop = other.LeftTopCorner;
                 var otherRightBottom = other.CalculateRightBottomCorner();
 
                 // otherRightBottom should be between thisLeftTop and thisRightBottom
-                return otherRightBottom.x <= thisRightBottom.x && otherRightBottom.y >= thisRightBottom.y &&
-                       otherRightBottom.x >= thisLeftTop.x     && otherRightBottom.y <= thisLeftTop.y;
+                // or otherLeftTop should be between thisLeftTop and thisRightBottom
+                return (otherRightBottom.x <= thisRightBottom.x && otherRightBottom.y >= thisRightBottom.y &&
+                        otherRightBottom.x >= thisLeftTop.x     && otherRightBottom.y <= thisLeftTop.y)    ||
+                       (otherLeftTop.x     <= thisRightBottom.x && otherLeftTop.y     >= thisRightBottom.y &&
+                        otherLeftTop.x     >= thisLeftTop.x     && otherLeftTop.y     <= thisLeftTop.x);
             }
         }
 
