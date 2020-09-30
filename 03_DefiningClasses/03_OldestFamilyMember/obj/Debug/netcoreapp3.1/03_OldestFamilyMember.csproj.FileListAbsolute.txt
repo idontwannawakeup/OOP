@@ -11,3 +11,16 @@ D:\Studying\OOP\Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcorea
 D:\Studying\OOP\Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.dll
 D:\Studying\OOP\Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.pdb
 D:\Studying\OOP\Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.genruntimeconfig.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\bin\Debug\netcoreapp3.1\03_OldestFamilyMember.exe
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\bin\Debug\netcoreapp3.1\03_OldestFamilyMember.deps.json
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\bin\Debug\netcoreapp3.1\03_OldestFamilyMember.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\bin\Debug\netcoreapp3.1\03_OldestFamilyMember.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\bin\Debug\netcoreapp3.1\03_OldestFamilyMember.dll
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\bin\Debug\netcoreapp3.1\03_OldestFamilyMember.pdb
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.dll
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.pdb
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\03_OldestFamilyMember\obj\Debug\netcoreapp3.1\03_OldestFamilyMember.genruntimeconfig.cache

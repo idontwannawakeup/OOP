@@ -2,32 +2,17 @@
 
 namespace _05_DateModifier
 {
-    class Program
+    class DateModifier
     {
-        class DateModifier
+        private int difference;
+
+        public int Difference { get => difference; }
+
+        public void CalculateDifference(string lhs, string rhs)
         {
-            private int difference;
-
-            public int Difference { get => difference; }
-
-            public void CalculateDifference(string lhs, string rhs)
-            {
-                DateTime lhsD = DateTime.Parse(lhs);
-                DateTime rhsD = DateTime.Parse(rhs);
-                difference = Math.Abs((lhsD - rhsD).Days);
-            }
-        }
-
-        static void Main(string[] args)
-        {
-            string lhs = Console.ReadLine();
-            string rhs = Console.ReadLine();
-
-            DateModifier dm = new DateModifier();
-            dm.CalculateDifference(lhs, rhs);
-            Console.WriteLine(dm.Difference);
-
-            Console.ReadKey();
+            DateTime lhsD = DateTime.Parse(lhs);
+            DateTime rhsD = DateTime.Parse(rhs);
+            difference = Math.Abs((lhsD - rhsD).Days);
         }
     }
 }

@@ -2,75 +2,27 @@
 
 namespace _15_DrawingTool
 {
-    class Program
+    class DrawingTool
     {
-        class Figure
-        {
-            public int Width { get; protected set; }
-            public int Height { get; protected set; }
-        }
+        private Figure figureToDraw;
 
-        class Rectangle : Figure
+        public void Draw()
         {
-            public Rectangle(int width, int height)
+            for (int i = 0; i < figureToDraw.Height; i++)
             {
-                Width = width;
-                Height = height;
-            }
-        }
-
-        class Square : Figure
-        {
-            public Square(int size)
-            {
-                Width = Height = size;
-            }
-        }
-
-        class DrawingTool
-        {
-            private Figure figureToDraw;
-
-            public void Draw()
-            {
-                for (int i = 0; i < figureToDraw.Height; i++)
+                Console.Write('|');
+                char value = (i == 0 || i == figureToDraw.Height - 1) ? '-' : ' ';
+                for (int j = 0; j < figureToDraw.Width; j++)
                 {
-                    Console.Write('|');
-                    char value = (i == 0 || i == figureToDraw.Height - 1) ? '-' : ' ';
-                    for (int j = 0; j < figureToDraw.Width; j++)
-                    {
-                        Console.Write(value);
-                    }
-                    Console.WriteLine('|');
+                    Console.Write(value);
                 }
-            }
-
-            public DrawingTool(Figure figure)
-            {
-                figureToDraw = figure;
+                Console.WriteLine('|');
             }
         }
 
-        static void Main(string[] args)
+        public DrawingTool(Figure figure)
         {
-            string type = Console.ReadLine();
-            Figure figureToDraw;
-            if (type.Equals("Square"))
-            {
-                int size = int.Parse(Console.ReadLine());
-                figureToDraw = new Square(size);
-            }
-            else
-            {
-                int width = int.Parse(Console.ReadLine());
-                int height = int.Parse(Console.ReadLine());
-                figureToDraw = new Rectangle(width, height);
-            }
-
-            DrawingTool dt = new DrawingTool(figureToDraw);
-            dt.Draw();
-
-            Console.ReadKey();
+            figureToDraw = figure;
         }
     }
 }
