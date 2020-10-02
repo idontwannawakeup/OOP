@@ -10,3 +10,4 @@ D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\15_DrawingTool\obj\Debug\netcorea
 D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\15_DrawingTool\obj\Debug\netcoreapp3.1\15_DrawingTool.dll
 D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\15_DrawingTool\obj\Debug\netcoreapp3.1\15_DrawingTool.pdb
 D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\15_DrawingTool\obj\Debug\netcoreapp3.1\15_DrawingTool.genruntimeconfig.cache
+D:\Studying\OOP\GitHub_Labs\03_DefiningClasses\15_DrawingTool\obj\Debug\netcoreapp3.1\15_DrawingTool.csprojAssemblyReference.cache
