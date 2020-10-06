@@ -13,18 +13,16 @@ namespace _08_RawData
             {
                 string[] input = Console.ReadLine().Split(' ');
 
-                string model = input[0];
                 Engine engine = new Engine(int.Parse(input[1]), int.Parse(input[2]));
                 Cargo cargo = new Cargo(int.Parse(input[3]), input[4]);
                 Tire[] tires = new Tire[4];
                 for (int j = 0, k = 5; j < 4; j++, k += 2)
                 {
-                    double pressure = double.Parse(input[k].Replace('.', ','));
-                    int age = int.Parse(input[k + 1]);
-                    tires[j] = new Tire(pressure, age);
+                    tires[j] = new Tire(double.Parse(input[k].Replace('.', ',')),
+                                        int.Parse(input[k + 1]));
                 }
 
-                cars.Add(new Car(model, engine, cargo, tires));
+                cars.Add(new Car(input[0], engine, cargo, tires));
             }
 
             string command = Console.ReadLine();

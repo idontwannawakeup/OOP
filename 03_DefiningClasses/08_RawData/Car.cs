@@ -10,12 +10,9 @@
         public bool IsPressureLessThan(int value)
         {
             foreach (var tire in CarTires)
-            {
                 if (tire.Pressure < value)
-                {
                     return true;
-                }
-            }
+
             return false;
         }
 

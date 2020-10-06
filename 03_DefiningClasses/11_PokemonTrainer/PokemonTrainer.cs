@@ -17,19 +17,15 @@ namespace _11_PokemonTrainer
                 Pokemon newPokemon = new Pokemon(info[1], info[2], int.Parse(info[3]));
 
                 foreach (var trainer in trainers)
-                {
                     if (trainer.Name.Equals(trainerName))
                     {
                         trainer.AddPokemon(newPokemon);
                         check = true;
                         break;
                     }
-                }
 
                 if (!check)
-                {
                     trainers.Add(new Trainer(trainerName, newPokemon));
-                }
 
                 command = Console.ReadLine();
             }
@@ -39,29 +35,22 @@ namespace _11_PokemonTrainer
             {
                 string element = command;
                 foreach (var trainer in trainers)
-                {
                     trainer.UpdateBadges(element);
-                }
+
                 command = Console.ReadLine();
             }
 
             for (int i = 0; i < trainers.Count; i++)
-            {
                 for (int j = i + 1; j < trainers.Count; j++)
-                {
                     if (trainers[i].BadgesNumber < trainers[j].BadgesNumber)
                     {
                         var tmp = trainers[i];
                         trainers[i] = trainers[j];
                         trainers[j] = tmp;
                     }
-                }
-            }
 
             foreach (var trainer in trainers)
-            {
                 Console.WriteLine($"{trainer.Name} {trainer.BadgesNumber} {trainer.NumberOfPokemon}");
-            }
 
             Console.ReadKey();
         }

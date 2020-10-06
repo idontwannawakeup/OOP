@@ -18,20 +18,16 @@ namespace _13_FamilyTree
                 bool check = Family.CheckInfo(info);
 
                 if (!check && family.IsInfoAboutFirstMember(info))
-                {
                     family.UpdateInfoAboutFirstMember(info[0], info[1], info[2]);
-                }
                 else
-                {
                     inputLines.Add(info);
-                }
+
                 input = Console.ReadLine();
             }
 
             foreach (var line in inputLines)
-            {
                 family.UpdateInfo(line);
-            }
+
             family.PrintTree();
 
             Console.ReadKey();

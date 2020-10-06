@@ -38,12 +38,8 @@ namespace _10_CarSalesman
                 string model = info[0];
                 Engine newCarEngine = engines[0];
                 foreach (var engine in engines)
-                {
                     if (engine.Model.Equals(info[1]))
-                    {
                         newCarEngine = engine;
-                    }
-                }
 
                 if (info.Length == 2)
                 {
@@ -64,9 +60,7 @@ namespace _10_CarSalesman
             }
 
             foreach (var car in cars)
-            {
                 Console.WriteLine(car);
-            }
 
             Console.ReadKey();
         }

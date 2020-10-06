@@ -27,14 +27,10 @@ namespace _09_RectangleIntersection
                 foreach (var rectangle in rectangles)
                 {
                     if (rectangle.Id.Equals(info[0]))
-                    {
                         lhs = rectangle;
-                    }
 
                     if (rectangle.Id.Equals(info[1]))
-                    {
                         rhs = rectangle;
-                    }
                 }
 
                 Console.WriteLine(lhs.CheckIntersection(rhs));

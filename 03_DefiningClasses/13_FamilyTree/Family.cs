@@ -25,13 +25,9 @@ namespace _13_FamilyTree
         public void UpdateInfo(string[] info)
         {
             if (CheckInfo(info))
-            {
                 AddInfoAboutParent(info);
-            }
             else
-            {
                 UpdateInfoAboutMember(info[0], info[1], info[2]);
-            }
         }
 
         public void AddInfoAboutParent(string[] info)
@@ -90,24 +86,20 @@ namespace _13_FamilyTree
         {
             Member memberToUpdate = null;
             foreach (var parent in parents)
-            {
                 if ((parent.FirstName.Equals(firstName) && parent.LastName.Equals(lastName)) ||
                      parent.Birthdate.Equals(birthdate))
                 {
                     memberToUpdate = parent;
                     break;
                 }
-            }
 
             foreach (var child in children)
-            {
                 if ((child.FirstName.Equals(firstName) && child.LastName.Equals(lastName)) ||
                      child.Birthdate.Equals(birthdate))
                 {
                     memberToUpdate = child;
                     break;
                 }
-            }
 
             if (memberToUpdate != null)
             {
@@ -122,25 +114,19 @@ namespace _13_FamilyTree
             Console.WriteLine(firstMember);
             Console.WriteLine("Parents:");
             foreach (var parent in parents)
-            {
                 Console.WriteLine(parent);
-            }
+
             Console.WriteLine("Children:");
             foreach (var child in children)
-            {
                 Console.WriteLine(child);
-            }
         }
 
         public static bool CheckInfo(string[] info)
         {
             foreach (var word in info)
-            {
                 if (word.Equals("-"))
-                {
                     return true;
-                }
-            }
+
             return false;
         }
 

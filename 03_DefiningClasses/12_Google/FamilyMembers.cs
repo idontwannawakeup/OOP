@@ -16,9 +16,7 @@ namespace _12_Google
             string result = new string("");
 
             foreach (var item in Data)
-            {
                 result += item.ToString();
-            }
 
             return result;
         }

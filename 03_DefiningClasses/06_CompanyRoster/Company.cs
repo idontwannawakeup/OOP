@@ -4,7 +4,7 @@ namespace _06_CompanyRoster
 {
     class Company
     {
-        private List<Employee> employees;
+        private List<Employee> employees = new List<Employee>();
 
         public void AddNewEmployeer(string[] info)
         {
@@ -40,25 +40,20 @@ namespace _06_CompanyRoster
 
             List<string> departments = new List<string>();
             foreach (var employee in employees)
-            {
                 if (!departments.Contains(employee.Department))
-                {
                     departments.Add(employee.Department);
-                }
-            }
 
             foreach (var department in departments)
             {
                 int count = 0;
                 double departmentAverage = 0;
                 foreach (var employee in employees)
-                {
                     if (employee.Department.Equals(department))
                     {
                         count++;
                         departmentAverage += employee.Salary;
                     }
-                }
+
                 departmentAverage /= count;
 
                 if (departmentAverage > bestAverage)
@@ -75,18 +70,10 @@ namespace _06_CompanyRoster
         {
             List<Employee> result = new List<Employee>();
             foreach (var employee in employees)
-            {
                 if (employee.Department.Equals(department))
-                {
                     result.Add(employee);
-                }
-            }
-            return result;
-        }
 
-        public Company()
-        {
-            employees = new List<Employee>();
+            return result;
         }
     }
 }

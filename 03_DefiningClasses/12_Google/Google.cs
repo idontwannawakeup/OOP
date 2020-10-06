@@ -17,19 +17,16 @@ namespace _12_Google
 
                 Person currentPerson = new Person(name);
                 foreach (var person in persons)
-                {
                     if (person.Name.Equals(name))
                     {
                         check = true;
                         currentPerson = person;
                         break;
                     }
-                }
 
                 if (!check)
-                {
                     persons.Add(currentPerson);
-                }
+
                 currentPerson.UpdateInfo(info);
 
                 command = Console.ReadLine();
@@ -37,13 +34,11 @@ namespace _12_Google
 
             string inputName = Console.ReadLine();
             foreach (var person in persons)
-            {
                 if (person.Name.Equals(inputName))
                 {
                     Console.WriteLine(person);
                     break;
                 }
-            }
 
             Console.ReadKey();
         }

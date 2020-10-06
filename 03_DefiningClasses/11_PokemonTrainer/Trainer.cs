@@ -19,14 +19,12 @@ namespace _11_PokemonTrainer
         {
             bool check = false;
             foreach (var pokemon in pokemons)
-            {
                 if (pokemon.Element.Equals(element))
                 {
                     check = true;
                     BadgesNumber++;
                     break;
                 }
-            }
 
             if (!check)
             {
@@ -35,15 +33,11 @@ namespace _11_PokemonTrainer
                 {
                     pokemon.DecreaseHealth(10);
                     if (pokemon.Health <= 0)
-                    {
                         pokemonsToRemove.Add(pokemon);
-                    }
                 }
 
                 foreach (var pokemon in pokemonsToRemove)
-                {
                     pokemons.Remove(pokemon);
-                }
             }
         }
 

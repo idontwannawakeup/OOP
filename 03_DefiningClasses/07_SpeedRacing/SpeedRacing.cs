@@ -21,21 +21,17 @@ namespace _07_SpeedRacing
             {
                 string[] info = command.Split(' ');
                 foreach (var car in carsInRacing)
-                {
                     if (car.Model.Equals(info[1]))
                     {
                         car.Drive(double.Parse(info[2].Replace('.', ',')));
                         break;
                     }
-                }
 
                 command = Console.ReadLine();
             }
 
             foreach (var car in carsInRacing)
-            {
-                Console.WriteLine($"{car.Model} {string.Format("{0:0.00}", car.FuelAmount)} {car.DistanceTravelled}");
-            }
+                Console.WriteLine($"{car.Model} {car.FuelAmount:0.00} {car.DistanceTravelled}");
 
             Console.ReadKey();
         }
