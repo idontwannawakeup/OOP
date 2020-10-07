@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\bin\Debug\netcoreapp3.1\04_Hospital.exe
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\bin\Debug\netcoreapp3.1\04_Hospital.deps.json
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\bin\Debug\netcoreapp3.1\04_Hospital.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\bin\Debug\netcoreapp3.1\04_Hospital.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\bin\Debug\netcoreapp3.1\04_Hospital.dll
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\bin\Debug\netcoreapp3.1\04_Hospital.pdb
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\obj\Debug\netcoreapp3.1\04_Hospital.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\obj\Debug\netcoreapp3.1\04_Hospital.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\obj\Debug\netcoreapp3.1\04_Hospital.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\obj\Debug\netcoreapp3.1\04_Hospital.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\obj\Debug\netcoreapp3.1\04_Hospital.dll
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\obj\Debug\netcoreapp3.1\04_Hospital.pdb
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\04_Hospital\obj\Debug\netcoreapp3.1\04_Hospital.genruntimeconfig.cache
