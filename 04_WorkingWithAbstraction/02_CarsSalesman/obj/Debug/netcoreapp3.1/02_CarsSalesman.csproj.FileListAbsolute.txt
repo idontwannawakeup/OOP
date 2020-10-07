@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\bin\Debug\netcoreapp3.1\02_CarsSalesman.exe
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\bin\Debug\netcoreapp3.1\02_CarsSalesman.deps.json
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\bin\Debug\netcoreapp3.1\02_CarsSalesman.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\bin\Debug\netcoreapp3.1\02_CarsSalesman.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\bin\Debug\netcoreapp3.1\02_CarsSalesman.dll
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\bin\Debug\netcoreapp3.1\02_CarsSalesman.pdb
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\obj\Debug\netcoreapp3.1\02_CarsSalesman.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\obj\Debug\netcoreapp3.1\02_CarsSalesman.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\obj\Debug\netcoreapp3.1\02_CarsSalesman.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\obj\Debug\netcoreapp3.1\02_CarsSalesman.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\obj\Debug\netcoreapp3.1\02_CarsSalesman.dll
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\obj\Debug\netcoreapp3.1\02_CarsSalesman.pdb
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\02_CarsSalesman\obj\Debug\netcoreapp3.1\02_CarsSalesman.genruntimeconfig.cache
