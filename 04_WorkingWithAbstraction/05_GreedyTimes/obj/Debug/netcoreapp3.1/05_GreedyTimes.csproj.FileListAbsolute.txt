@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\bin\Debug\netcoreapp3.1\05_GreedyTimes.exe
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\bin\Debug\netcoreapp3.1\05_GreedyTimes.deps.json
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\bin\Debug\netcoreapp3.1\05_GreedyTimes.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\bin\Debug\netcoreapp3.1\05_GreedyTimes.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\bin\Debug\netcoreapp3.1\05_GreedyTimes.dll
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\bin\Debug\netcoreapp3.1\05_GreedyTimes.pdb
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\obj\Debug\netcoreapp3.1\05_GreedyTimes.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\obj\Debug\netcoreapp3.1\05_GreedyTimes.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\obj\Debug\netcoreapp3.1\05_GreedyTimes.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\obj\Debug\netcoreapp3.1\05_GreedyTimes.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\obj\Debug\netcoreapp3.1\05_GreedyTimes.dll
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\obj\Debug\netcoreapp3.1\05_GreedyTimes.pdb
+D:\Studying\OOP\GitHub_Labs\04_WorkingWithAbstraction\05_GreedyTimes\obj\Debug\netcoreapp3.1\05_GreedyTimes.genruntimeconfig.cache
