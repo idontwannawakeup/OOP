@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\bin\Debug\netcoreapp3.1\01_ClassBox.exe
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\bin\Debug\netcoreapp3.1\01_ClassBox.deps.json
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\bin\Debug\netcoreapp3.1\01_ClassBox.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\bin\Debug\netcoreapp3.1\01_ClassBox.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\bin\Debug\netcoreapp3.1\01_ClassBox.dll
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\bin\Debug\netcoreapp3.1\01_ClassBox.pdb
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\obj\Debug\netcoreapp3.1\01_ClassBox.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\obj\Debug\netcoreapp3.1\01_ClassBox.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\obj\Debug\netcoreapp3.1\01_ClassBox.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\obj\Debug\netcoreapp3.1\01_ClassBox.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\obj\Debug\netcoreapp3.1\01_ClassBox.dll
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\obj\Debug\netcoreapp3.1\01_ClassBox.pdb
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\01_ClassBox\obj\Debug\netcoreapp3.1\01_ClassBox.genruntimeconfig.cache

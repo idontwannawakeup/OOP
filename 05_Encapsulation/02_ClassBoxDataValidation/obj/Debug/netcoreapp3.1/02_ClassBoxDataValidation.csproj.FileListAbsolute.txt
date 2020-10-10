@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02_ClassBoxDataValidation.exe
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02_ClassBoxDataValidation.deps.json
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02_ClassBoxDataValidation.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02_ClassBoxDataValidation.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02_ClassBoxDataValidation.dll
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\bin\Debug\netcoreapp3.1\02_ClassBoxDataValidation.pdb
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02_ClassBoxDataValidation.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02_ClassBoxDataValidation.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02_ClassBoxDataValidation.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02_ClassBoxDataValidation.dll
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02_ClassBoxDataValidation.pdb
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\02_ClassBoxDataValidation\obj\Debug\netcoreapp3.1\02_ClassBoxDataValidation.genruntimeconfig.cache
