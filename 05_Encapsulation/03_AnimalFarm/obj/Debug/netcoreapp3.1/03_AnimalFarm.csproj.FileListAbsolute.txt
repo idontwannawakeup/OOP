@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\bin\Debug\netcoreapp3.1\03_AnimalFarm.exe
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\bin\Debug\netcoreapp3.1\03_AnimalFarm.deps.json
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\bin\Debug\netcoreapp3.1\03_AnimalFarm.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\bin\Debug\netcoreapp3.1\03_AnimalFarm.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\bin\Debug\netcoreapp3.1\03_AnimalFarm.dll
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\bin\Debug\netcoreapp3.1\03_AnimalFarm.pdb
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\obj\Debug\netcoreapp3.1\03_AnimalFarm.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\obj\Debug\netcoreapp3.1\03_AnimalFarm.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\obj\Debug\netcoreapp3.1\03_AnimalFarm.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\obj\Debug\netcoreapp3.1\03_AnimalFarm.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\obj\Debug\netcoreapp3.1\03_AnimalFarm.dll
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\obj\Debug\netcoreapp3.1\03_AnimalFarm.pdb
+D:\Studying\OOP\GitHub_Labs\05_Encapsulation\03_AnimalFarm\obj\Debug\netcoreapp3.1\03_AnimalFarm.genruntimeconfig.cache
