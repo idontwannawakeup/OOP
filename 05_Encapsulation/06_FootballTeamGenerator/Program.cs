@@ -27,7 +27,7 @@ namespace _06_FootballTeamGenerator
                     switch (command)
                     {
                         case "Team":
-                            footballTeams.Add(new Team(input.Split(';')[1]));
+                            footballTeams.Add(new Team(info[1]));
                             break;
                         case "Add":
                             team.AddPlayer(new Player(info[2],
