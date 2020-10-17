@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\bin\Debug\netcoreapp3.1\06_Animals.exe
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\bin\Debug\netcoreapp3.1\06_Animals.deps.json
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\bin\Debug\netcoreapp3.1\06_Animals.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\bin\Debug\netcoreapp3.1\06_Animals.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\bin\Debug\netcoreapp3.1\06_Animals.dll
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\bin\Debug\netcoreapp3.1\06_Animals.pdb
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\obj\Debug\netcoreapp3.1\06_Animals.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\obj\Debug\netcoreapp3.1\06_Animals.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\obj\Debug\netcoreapp3.1\06_Animals.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\obj\Debug\netcoreapp3.1\06_Animals.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\obj\Debug\netcoreapp3.1\06_Animals.dll
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\obj\Debug\netcoreapp3.1\06_Animals.pdb
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\06_Animals\obj\Debug\netcoreapp3.1\06_Animals.genruntimeconfig.cache
