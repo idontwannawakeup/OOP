@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\bin\Debug\netcoreapp3.1\05_MordorsCruelPlan.exe
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\bin\Debug\netcoreapp3.1\05_MordorsCruelPlan.deps.json
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\bin\Debug\netcoreapp3.1\05_MordorsCruelPlan.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\bin\Debug\netcoreapp3.1\05_MordorsCruelPlan.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\bin\Debug\netcoreapp3.1\05_MordorsCruelPlan.dll
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\bin\Debug\netcoreapp3.1\05_MordorsCruelPlan.pdb
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\obj\Debug\netcoreapp3.1\05_MordorsCruelPlan.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\obj\Debug\netcoreapp3.1\05_MordorsCruelPlan.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\obj\Debug\netcoreapp3.1\05_MordorsCruelPlan.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\obj\Debug\netcoreapp3.1\05_MordorsCruelPlan.dll
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\obj\Debug\netcoreapp3.1\05_MordorsCruelPlan.pdb
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\05_MordorsCruelPlan\obj\Debug\netcoreapp3.1\05_MordorsCruelPlan.genruntimeconfig.cache
