@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\bin\Debug\netcoreapp3.1\04_OnlineRadioDatabase.exe
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\bin\Debug\netcoreapp3.1\04_OnlineRadioDatabase.deps.json
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\bin\Debug\netcoreapp3.1\04_OnlineRadioDatabase.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\bin\Debug\netcoreapp3.1\04_OnlineRadioDatabase.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\bin\Debug\netcoreapp3.1\04_OnlineRadioDatabase.dll
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\bin\Debug\netcoreapp3.1\04_OnlineRadioDatabase.pdb
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\obj\Debug\netcoreapp3.1\04_OnlineRadioDatabase.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\obj\Debug\netcoreapp3.1\04_OnlineRadioDatabase.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\obj\Debug\netcoreapp3.1\04_OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\obj\Debug\netcoreapp3.1\04_OnlineRadioDatabase.dll
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\obj\Debug\netcoreapp3.1\04_OnlineRadioDatabase.pdb
+D:\Studying\OOP\GitHub_Labs\06_Inheritance\04_OnlineRadioDatabase\obj\Debug\netcoreapp3.1\04_OnlineRadioDatabase.genruntimeconfig.cache

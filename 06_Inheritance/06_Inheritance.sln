@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Mankind", "03_Mankind\03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Animals", "06_Animals\06_Animals.csproj", "{DACC58EE-95DB-4982-8CA5-A4BE2977B09E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_OnlineRadioDatabase", "04_OnlineRadioDatabase\04_OnlineRadioDatabase.csproj", "{49F4EEA3-0DBB-4759-A73B-242526606293}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DACC58EE-95DB-4982-8CA5-A4BE2977B09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DACC58EE-95DB-4982-8CA5-A4BE2977B09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DACC58EE-95DB-4982-8CA5-A4BE2977B09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F4EEA3-0DBB-4759-A73B-242526606293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F4EEA3-0DBB-4759-A73B-242526606293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F4EEA3-0DBB-4759-A73B-242526606293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F4EEA3-0DBB-4759-A73B-242526606293}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
