@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\bin\Debug\netcoreapp3.1\05_BorderControl.exe
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\bin\Debug\netcoreapp3.1\05_BorderControl.deps.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\bin\Debug\netcoreapp3.1\05_BorderControl.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\bin\Debug\netcoreapp3.1\05_BorderControl.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\bin\Debug\netcoreapp3.1\05_BorderControl.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\bin\Debug\netcoreapp3.1\05_BorderControl.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\obj\Debug\netcoreapp3.1\05_BorderControl.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\obj\Debug\netcoreapp3.1\05_BorderControl.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\obj\Debug\netcoreapp3.1\05_BorderControl.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\obj\Debug\netcoreapp3.1\05_BorderControl.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\obj\Debug\netcoreapp3.1\05_BorderControl.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\obj\Debug\netcoreapp3.1\05_BorderControl.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\05_BorderControl\obj\Debug\netcoreapp3.1\05_BorderControl.genruntimeconfig.cache
