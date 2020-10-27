@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.exe
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.deps.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\01_DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\01_DefineAnInterfaceIPerson.genruntimeconfig.cache
