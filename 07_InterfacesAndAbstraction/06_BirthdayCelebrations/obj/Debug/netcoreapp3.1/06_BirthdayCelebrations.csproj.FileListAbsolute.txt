@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\bin\Debug\netcoreapp3.1\06_BirthdayCelebrations.exe
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\bin\Debug\netcoreapp3.1\06_BirthdayCelebrations.deps.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\bin\Debug\netcoreapp3.1\06_BirthdayCelebrations.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\bin\Debug\netcoreapp3.1\06_BirthdayCelebrations.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\bin\Debug\netcoreapp3.1\06_BirthdayCelebrations.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\bin\Debug\netcoreapp3.1\06_BirthdayCelebrations.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\obj\Debug\netcoreapp3.1\06_BirthdayCelebrations.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\obj\Debug\netcoreapp3.1\06_BirthdayCelebrations.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\obj\Debug\netcoreapp3.1\06_BirthdayCelebrations.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\obj\Debug\netcoreapp3.1\06_BirthdayCelebrations.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\obj\Debug\netcoreapp3.1\06_BirthdayCelebrations.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\06_BirthdayCelebrations\obj\Debug\netcoreapp3.1\06_BirthdayCelebrations.genruntimeconfig.cache

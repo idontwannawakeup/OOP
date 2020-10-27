@@ -12,9 +12,9 @@ namespace _05_BorderControl
             {
                 string[] info = input.Split(' ');
                 if (info.Length == 3)
-                    city.AddNewMember(new Citizen(info[0], int.Parse(info[1]), info[2]));
+                    city.AddNewIdentifiable(new Citizen(info[0], int.Parse(info[1]), info[2]));
                 else if (info.Length == 2)
-                    city.AddNewMember(new Robot(info[0], info[1]));
+                    city.AddNewIdentifiable(new Robot(info[0], info[1]));
 
                 input = Console.ReadLine();
             }

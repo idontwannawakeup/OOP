@@ -1,14 +1,26 @@
 ﻿using System.Collections.Generic;
 
-namespace _05_BorderControl
+namespace _06_BirthdayCelebrations
 {
     class City
     {
         private List<IIdentifiable> identifiedMembers = new List<IIdentifiable>();
+        private List<IBirthable> birthableMembers = new List<IBirthable>();
 
         public void AddNewIdentifiable(IIdentifiable newMember)
         {
             identifiedMembers.Add(newMember);
+        }
+
+        public void AddNewBirthable(IBirthable newMember)
+        {
+            birthableMembers.Add(newMember);
+        }
+
+        public void AddNewCitizen(Citizen newCitizen)
+        {
+            AddNewIdentifiable(newCitizen);
+            AddNewBirthable(newCitizen);
         }
 
         public List<IIdentifiable> DetectMembersWithFakeIds(string fakeId)
@@ -23,6 +35,16 @@ namespace _05_BorderControl
                     result.Add(item);
                 }
             }
+
+            return result;
+        }
+
+        public List<IBirthable> GetMembersWithSameBirthYear(int year)
+        {
+            var result = new List<IBirthable>();
+            foreach (var item in birthableMembers)
+                if (item.Birthdate.Year == year)
+                    result.Add(item);
 
             return result;
         }
