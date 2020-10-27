@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\bin\Debug\netcoreapp3.1\04_Telephony.exe
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\bin\Debug\netcoreapp3.1\04_Telephony.deps.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\bin\Debug\netcoreapp3.1\04_Telephony.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\bin\Debug\netcoreapp3.1\04_Telephony.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\bin\Debug\netcoreapp3.1\04_Telephony.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\bin\Debug\netcoreapp3.1\04_Telephony.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\obj\Debug\netcoreapp3.1\04_Telephony.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\obj\Debug\netcoreapp3.1\04_Telephony.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\obj\Debug\netcoreapp3.1\04_Telephony.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\obj\Debug\netcoreapp3.1\04_Telephony.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\obj\Debug\netcoreapp3.1\04_Telephony.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\obj\Debug\netcoreapp3.1\04_Telephony.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\04_Telephony\obj\Debug\netcoreapp3.1\04_Telephony.genruntimeconfig.cache
