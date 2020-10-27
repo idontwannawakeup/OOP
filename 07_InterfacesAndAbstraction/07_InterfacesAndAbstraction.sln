@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_DefineAnInterfaceIPerson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_MultipleImplementation", "02_MultipleImplementation\02_MultipleImplementation.csproj", "{B1B04C1A-0695-4557-91DC-42121B26DD79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Ferrari", "03_Ferrari\03_Ferrari.csproj", "{28618E63-09C6-4197-9377-7F7FED426284}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B1B04C1A-0695-4557-91DC-42121B26DD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B04C1A-0695-4557-91DC-42121B26DD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B04C1A-0695-4557-91DC-42121B26DD79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28618E63-09C6-4197-9377-7F7FED426284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28618E63-09C6-4197-9377-7F7FED426284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28618E63-09C6-4197-9377-7F7FED426284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28618E63-09C6-4197-9377-7F7FED426284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
