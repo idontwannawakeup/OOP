@@ -33,7 +33,7 @@ namespace _08_MilitaryElite
 
                     if (info[0] == "LeutenantGeneral")
                     {
-                        var general = (LeutenantGeneral)soldiers[soldiers.Count - 1];
+                        var general = (ILeutenantGeneral)soldiers[soldiers.Count - 1];
                         for (int i = 5; i < info.Length; i++)
                         {
                             var id = int.Parse(info[i]);
@@ -43,7 +43,7 @@ namespace _08_MilitaryElite
                     }
                     else if (info[0] == "Engineer")
                     {
-                        var lastEngineer = (Engineer)soldiers[soldiers.Count - 1];
+                        var lastEngineer = (IEngineer)soldiers[soldiers.Count - 1];
                         for (int i = 6; i < info.Length; i += 2)
                         {
                             lastEngineer.Repairs.Add(new Repair(info[i], info[i + 1]));
@@ -51,7 +51,7 @@ namespace _08_MilitaryElite
                     }
                     else if (info[0] == "Commando")
                     {
-                        var commando = (Commando)soldiers[soldiers.Count - 1];
+                        var commando = (ICommando)soldiers[soldiers.Count - 1];
                         for (int i = 6; i < info.Length; i += 2)
                         {
                             try

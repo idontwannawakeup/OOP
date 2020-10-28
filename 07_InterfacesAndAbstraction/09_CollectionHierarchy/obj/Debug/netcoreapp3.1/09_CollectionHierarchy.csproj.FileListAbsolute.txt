@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\bin\Debug\netcoreapp3.1\09_CollectionHierarchy.exe
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\bin\Debug\netcoreapp3.1\09_CollectionHierarchy.deps.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\bin\Debug\netcoreapp3.1\09_CollectionHierarchy.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\bin\Debug\netcoreapp3.1\09_CollectionHierarchy.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\bin\Debug\netcoreapp3.1\09_CollectionHierarchy.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\bin\Debug\netcoreapp3.1\09_CollectionHierarchy.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\obj\Debug\netcoreapp3.1\09_CollectionHierarchy.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\obj\Debug\netcoreapp3.1\09_CollectionHierarchy.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\obj\Debug\netcoreapp3.1\09_CollectionHierarchy.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\obj\Debug\netcoreapp3.1\09_CollectionHierarchy.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\obj\Debug\netcoreapp3.1\09_CollectionHierarchy.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\09_CollectionHierarchy\obj\Debug\netcoreapp3.1\09_CollectionHierarchy.genruntimeconfig.cache
