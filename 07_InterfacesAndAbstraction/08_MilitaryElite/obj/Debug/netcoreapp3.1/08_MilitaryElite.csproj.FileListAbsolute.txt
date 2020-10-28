@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\bin\Debug\netcoreapp3.1\08_MilitaryElite.exe
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\bin\Debug\netcoreapp3.1\08_MilitaryElite.deps.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\bin\Debug\netcoreapp3.1\08_MilitaryElite.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\bin\Debug\netcoreapp3.1\08_MilitaryElite.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\bin\Debug\netcoreapp3.1\08_MilitaryElite.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\bin\Debug\netcoreapp3.1\08_MilitaryElite.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\obj\Debug\netcoreapp3.1\08_MilitaryElite.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\obj\Debug\netcoreapp3.1\08_MilitaryElite.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\obj\Debug\netcoreapp3.1\08_MilitaryElite.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\obj\Debug\netcoreapp3.1\08_MilitaryElite.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\obj\Debug\netcoreapp3.1\08_MilitaryElite.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\obj\Debug\netcoreapp3.1\08_MilitaryElite.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\08_MilitaryElite\obj\Debug\netcoreapp3.1\08_MilitaryElite.genruntimeconfig.cache
