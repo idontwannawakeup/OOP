@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _05_BorderControl.Models;
+using System;
 
 namespace _05_BorderControl
 {

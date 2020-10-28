@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _07_FoodShortage.Models;
+using System;
 
 namespace _07_FoodShortage
 {

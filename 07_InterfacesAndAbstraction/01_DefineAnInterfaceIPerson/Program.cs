@@ -1,4 +1,6 @@
-﻿using System;
+﻿using _01_DefineAnInterfaceIPerson.Interfaces;
+using _01_DefineAnInterfaceIPerson.Models;
+using System;
 
 namespace _01_DefineAnInterfaceIPerson
 {
