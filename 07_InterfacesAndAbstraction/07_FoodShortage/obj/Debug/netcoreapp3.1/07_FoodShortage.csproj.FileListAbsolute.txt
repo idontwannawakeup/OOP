@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\bin\Debug\netcoreapp3.1\07_FoodShortage.exe
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\bin\Debug\netcoreapp3.1\07_FoodShortage.deps.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\bin\Debug\netcoreapp3.1\07_FoodShortage.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\bin\Debug\netcoreapp3.1\07_FoodShortage.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\bin\Debug\netcoreapp3.1\07_FoodShortage.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\bin\Debug\netcoreapp3.1\07_FoodShortage.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\obj\Debug\netcoreapp3.1\07_FoodShortage.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\obj\Debug\netcoreapp3.1\07_FoodShortage.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\obj\Debug\netcoreapp3.1\07_FoodShortage.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\obj\Debug\netcoreapp3.1\07_FoodShortage.dll
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\obj\Debug\netcoreapp3.1\07_FoodShortage.pdb
+D:\Studying\OOP\GitHub_Labs\07_InterfacesAndAbstraction\07_FoodShortage\obj\Debug\netcoreapp3.1\07_FoodShortage.genruntimeconfig.cache
