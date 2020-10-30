@@ -1,5 +1,6 @@
 ﻿using _06_BirthdayCelebrations.Interfaces;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _06_BirthdayCelebrations.Models
 {
@@ -24,30 +25,10 @@ namespace _06_BirthdayCelebrations.Models
             AddNewBirthable(newCitizen);
         }
 
-        public List<IIdentifiable> DetectMembersWithFakeIds(string fakeId)
-        {
-            var result = new List<IIdentifiable>();
-            foreach (var item in identifiedMembers)
-            {
-                var id = item.Id;
-                if (id.Length >= fakeId.Length &&
-                    id.Substring(id.Length - fakeId.Length, fakeId.Length) == fakeId)
-                {
-                    result.Add(item);
-                }
-            }
+        public IEnumerable<IIdentifiable> DetectMembersWithFakeId(string fakeId)
+            => identifiedMembers.Where(element => element.Id.EndsWith(fakeId));
 
-            return result;
-        }
-
-        public List<IBirthable> GetMembersWithSameBirthYear(int year)
-        {
-            var result = new List<IBirthable>();
-            foreach (var item in birthableMembers)
-                if (item.Birthdate.Year == year)
-                    result.Add(item);
-
-            return result;
-        }
+        public IEnumerable<IBirthable> GetMembersWithSameBirthYear(int year)
+            => birthableMembers.Where(element => element.Birthdate.Year == year);
     }
 }

@@ -1,5 +1,6 @@
 ﻿using _05_BorderControl.Interfaces;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _05_BorderControl.Models
 {
@@ -12,20 +13,7 @@ namespace _05_BorderControl.Models
             identifiedMembers.Add(newMember);
         }
 
-        public List<IIdentifiable> DetectMembersWithFakeIds(string fakeId)
-        {
-            var result = new List<IIdentifiable>();
-            foreach (var item in identifiedMembers)
-            {
-                var id = item.Id;
-                if (id.Length >= fakeId.Length &&
-                    id.Substring(id.Length - fakeId.Length, fakeId.Length) == fakeId)
-                {
-                    result.Add(item);
-                }
-            }
-
-            return result;
-        }
+        public IEnumerable<IIdentifiable> DetectMembersWithFakeId(string fakeId)
+            => identifiedMembers.Where(element => element.Id.EndsWith(fakeId));
     }
 }

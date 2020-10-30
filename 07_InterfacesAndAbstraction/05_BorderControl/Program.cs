@@ -21,7 +21,7 @@ namespace _05_BorderControl
             }
 
             string fakeId = Console.ReadLine();
-            var membersWithFakeId = city.DetectMembersWithFakeIds(fakeId);
+            var membersWithFakeId = city.DetectMembersWithFakeId(fakeId);
             foreach (var item in membersWithFakeId)
                 Console.WriteLine(item.Id);
 

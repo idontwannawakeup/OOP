@@ -13,9 +13,7 @@ namespace _07_FoodShortage.Models
         public int TotalFoodAmount { get => CalculateTotalFoodAmount(); }
 
         private int CalculateTotalFoodAmount()
-        {
-            return foodBuyers.Sum(element => element.Food);
-        }
+            => foodBuyers.Sum(element => element.Food);
 
         public void AddNewIdentifiable(IIdentifiable newMember)
         {
@@ -39,31 +37,11 @@ namespace _07_FoodShortage.Models
             AddNewFoodBuyer(newCitizen);
         }
 
-        public List<IIdentifiable> DetectMembersWithFakeIds(string fakeId)
-        {
-            var result = new List<IIdentifiable>();
-            foreach (var item in identifiedMembers)
-            {
-                var id = item.Id;
-                if (id.Length >= fakeId.Length &&
-                    id.Substring(id.Length - fakeId.Length, fakeId.Length) == fakeId)
-                {
-                    result.Add(item);
-                }
-            }
+        public IEnumerable<IIdentifiable> DetectMembersWithFakeId(string fakeId)
+            => identifiedMembers.Where(element => element.Id.EndsWith(fakeId));
 
-            return result;
-        }
-
-        public List<IBirthable> GetMembersWithSameBirthYear(int year)
-        {
-            var result = new List<IBirthable>();
-            foreach (var item in birthableMembers)
-                if (item.Birthdate.Year == year)
-                    result.Add(item);
-
-            return result;
-        }
+        public IEnumerable<IBirthable> GetMembersWithSameBirthYear(int year)
+            => birthableMembers.Where(element => element.Birthdate.Year == year);
 
         public void MemberBuyFood(string name)
         {
