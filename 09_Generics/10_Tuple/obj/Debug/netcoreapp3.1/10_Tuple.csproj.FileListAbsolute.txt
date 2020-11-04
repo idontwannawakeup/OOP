@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\bin\Debug\netcoreapp3.1\10_Tuple.exe
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\bin\Debug\netcoreapp3.1\10_Tuple.deps.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\bin\Debug\netcoreapp3.1\10_Tuple.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\bin\Debug\netcoreapp3.1\10_Tuple.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\bin\Debug\netcoreapp3.1\10_Tuple.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\bin\Debug\netcoreapp3.1\10_Tuple.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\obj\Debug\netcoreapp3.1\10_Tuple.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\obj\Debug\netcoreapp3.1\10_Tuple.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\obj\Debug\netcoreapp3.1\10_Tuple.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\obj\Debug\netcoreapp3.1\10_Tuple.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\obj\Debug\netcoreapp3.1\10_Tuple.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\obj\Debug\netcoreapp3.1\10_Tuple.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\10_Tuple\obj\Debug\netcoreapp3.1\10_Tuple.genruntimeconfig.cache
