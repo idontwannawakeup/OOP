@@ -14,17 +14,8 @@ namespace _09_CustomListIterator.Models
 
         public T this[int index]
         {
-            get
-            {
-                CheckIndex(index);
-                return GetNodeByIndex(index).Value;
-            }
-
-            set
-            {
-                CheckIndex(index);
-                GetNodeByIndex(index).Value = value;
-            }
+            get => GetNodeByIndex(index).Value;
+            set => GetNodeByIndex(index).Value = value;
         }
 
         public int Count => CalculateCount();
@@ -41,9 +32,7 @@ namespace _09_CustomListIterator.Models
 
         public T Remove(int index)
         {
-            CheckIndex(index);
-
-            if (index == 0)
+            if (index == 0 && !IsEmpty)
                 return RemoveHead();
 
             var nodeBeforeRemovable = GetNodeByIndex(index - 1);
@@ -63,9 +52,6 @@ namespace _09_CustomListIterator.Models
 
         public void Swap(int index1, int index2)
         {
-            CheckIndex(index1);
-            CheckIndex(index2);
-
             var lhsNode = GetNodeByIndex(index1);
             var rhsNode = GetNodeByIndex(index2);
 
@@ -117,15 +103,10 @@ namespace _09_CustomListIterator.Models
             return currentFirst.Value;
         }
 
-        private void CheckIndex(int index)
+        private Node<T> GetNodeByIndex(int index)
         {
             if (index < 0 || index >= Count || IsEmpty)
                 throw new IndexOutOfRangeException();
-        }
-
-        private Node<T> GetNodeByIndex(int index)
-        {
-            CheckIndex(index);
 
             var result = head;
             for (int i = 0; i != index; i++, result = result.Next)
