@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\bin\Debug\netcoreapp3.1\00_GenericBox.exe
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\bin\Debug\netcoreapp3.1\00_GenericBox.deps.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\bin\Debug\netcoreapp3.1\00_GenericBox.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\bin\Debug\netcoreapp3.1\00_GenericBox.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\bin\Debug\netcoreapp3.1\00_GenericBox.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\bin\Debug\netcoreapp3.1\00_GenericBox.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\obj\Debug\netcoreapp3.1\00_GenericBox.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\obj\Debug\netcoreapp3.1\00_GenericBox.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\obj\Debug\netcoreapp3.1\00_GenericBox.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\obj\Debug\netcoreapp3.1\00_GenericBox.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\obj\Debug\netcoreapp3.1\00_GenericBox.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\00_GenericBox\obj\Debug\netcoreapp3.1\00_GenericBox.genruntimeconfig.cache

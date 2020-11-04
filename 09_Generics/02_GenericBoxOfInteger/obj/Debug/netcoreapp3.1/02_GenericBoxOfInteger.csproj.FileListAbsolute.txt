@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02_GenericBoxOfInteger.exe
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02_GenericBoxOfInteger.deps.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02_GenericBoxOfInteger.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02_GenericBoxOfInteger.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02_GenericBoxOfInteger.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02_GenericBoxOfInteger.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02_GenericBoxOfInteger.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02_GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02_GenericBoxOfInteger.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02_GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02_GenericBoxOfInteger.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02_GenericBoxOfInteger.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\02_GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02_GenericBoxOfInteger.genruntimeconfig.cache

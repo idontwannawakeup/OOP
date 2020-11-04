@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.exe
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.deps.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\03_GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\03_GenericSwapMethodStrings.genruntimeconfig.cache
