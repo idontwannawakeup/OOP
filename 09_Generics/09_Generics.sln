@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_GenericSwapMethodStrings
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_GenericSwapMethodIntegers", "04_GenericSwapMethodIntegers\04_GenericSwapMethodIntegers.csproj", "{22E2C034-035C-4617-A7D4-1100A7F88996}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_GenericCountMethodStrings", "05_GenericCountMethodStrings\05_GenericCountMethodStrings.csproj", "{A7D57220-D13D-4C0A-B326-EE693821A3C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_GenericCountMethodDoubles", "06_GenericCountMethodDoubles\06_GenericCountMethodDoubles.csproj", "{E00C235F-1D1C-4448-BFFB-9FA502E31713}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{22E2C034-035C-4617-A7D4-1100A7F88996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22E2C034-035C-4617-A7D4-1100A7F88996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22E2C034-035C-4617-A7D4-1100A7F88996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7D57220-D13D-4C0A-B326-EE693821A3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7D57220-D13D-4C0A-B326-EE693821A3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7D57220-D13D-4C0A-B326-EE693821A3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7D57220-D13D-4C0A-B326-EE693821A3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00C235F-1D1C-4448-BFFB-9FA502E31713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00C235F-1D1C-4448-BFFB-9FA502E31713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00C235F-1D1C-4448-BFFB-9FA502E31713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00C235F-1D1C-4448-BFFB-9FA502E31713}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
