@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\bin\Debug\netcoreapp3.1\07_CustomList.exe
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\bin\Debug\netcoreapp3.1\07_CustomList.deps.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\bin\Debug\netcoreapp3.1\07_CustomList.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\bin\Debug\netcoreapp3.1\07_CustomList.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\bin\Debug\netcoreapp3.1\07_CustomList.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\bin\Debug\netcoreapp3.1\07_CustomList.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\obj\Debug\netcoreapp3.1\07_CustomList.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\obj\Debug\netcoreapp3.1\07_CustomList.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\obj\Debug\netcoreapp3.1\07_CustomList.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\obj\Debug\netcoreapp3.1\07_CustomList.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\obj\Debug\netcoreapp3.1\07_CustomList.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\obj\Debug\netcoreapp3.1\07_CustomList.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\07_CustomList\obj\Debug\netcoreapp3.1\07_CustomList.genruntimeconfig.cache

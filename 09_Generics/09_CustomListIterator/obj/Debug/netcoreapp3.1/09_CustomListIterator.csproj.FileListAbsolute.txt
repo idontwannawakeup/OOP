@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\bin\Debug\netcoreapp3.1\09_CustomListIterator.exe
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\bin\Debug\netcoreapp3.1\09_CustomListIterator.deps.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\bin\Debug\netcoreapp3.1\09_CustomListIterator.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\bin\Debug\netcoreapp3.1\09_CustomListIterator.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\bin\Debug\netcoreapp3.1\09_CustomListIterator.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\bin\Debug\netcoreapp3.1\09_CustomListIterator.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\obj\Debug\netcoreapp3.1\09_CustomListIterator.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\obj\Debug\netcoreapp3.1\09_CustomListIterator.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\obj\Debug\netcoreapp3.1\09_CustomListIterator.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\obj\Debug\netcoreapp3.1\09_CustomListIterator.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\obj\Debug\netcoreapp3.1\09_CustomListIterator.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\obj\Debug\netcoreapp3.1\09_CustomListIterator.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\09_CustomListIterator\obj\Debug\netcoreapp3.1\09_CustomListIterator.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\bin\Debug\netcoreapp3.1\08_CustomListSorter.exe
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\bin\Debug\netcoreapp3.1\08_CustomListSorter.deps.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\bin\Debug\netcoreapp3.1\08_CustomListSorter.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\bin\Debug\netcoreapp3.1\08_CustomListSorter.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\bin\Debug\netcoreapp3.1\08_CustomListSorter.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\bin\Debug\netcoreapp3.1\08_CustomListSorter.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\obj\Debug\netcoreapp3.1\08_CustomListSorter.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\obj\Debug\netcoreapp3.1\08_CustomListSorter.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\obj\Debug\netcoreapp3.1\08_CustomListSorter.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\obj\Debug\netcoreapp3.1\08_CustomListSorter.dll
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\obj\Debug\netcoreapp3.1\08_CustomListSorter.pdb
+D:\Studying\OOP\GitHub_Labs\09_Generics\08_CustomListSorter\obj\Debug\netcoreapp3.1\08_CustomListSorter.genruntimeconfig.cache
