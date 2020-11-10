@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\bin\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.exe
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\bin\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.deps.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\bin\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\bin\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\bin\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\bin\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\obj\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\obj\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\obj\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\obj\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\obj\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\obj\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\02_StudentsByFirstAndLastName\obj\Debug\netcoreapp3.1\02_StudentsByFirstAndLastName.genruntimeconfig.cache

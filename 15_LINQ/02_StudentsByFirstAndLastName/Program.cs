@@ -1,9 +1,9 @@
-﻿using _01_StudentByGroup.Models;
+﻿using _02_StudentsByFirstAndLastName.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _01_StudentByGroup
+namespace _02_StudentsByFirstAndLastName
 {
     class Program
     {
@@ -17,10 +17,11 @@ namespace _01_StudentByGroup
                 input = Console.ReadLine();
             }
 
-            var studentsFromGroup2 = students.Where(element => element.Group == 2)
-                                             .OrderBy(element => element.FirstName);
+            var filteredStudents = students.Where(
+                    element => element.FirstName.CompareTo(element.LastName) < 0
+                );
 
-            foreach (var item in studentsFromGroup2)
+            foreach (var item in filteredStudents)
                 Console.WriteLine(item);
 
             Console.ReadKey();

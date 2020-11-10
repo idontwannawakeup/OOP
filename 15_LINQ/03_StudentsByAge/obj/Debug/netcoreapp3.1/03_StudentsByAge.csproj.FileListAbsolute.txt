@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\bin\Debug\netcoreapp3.1\03_StudentsByAge.exe
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\bin\Debug\netcoreapp3.1\03_StudentsByAge.deps.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\bin\Debug\netcoreapp3.1\03_StudentsByAge.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\bin\Debug\netcoreapp3.1\03_StudentsByAge.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\bin\Debug\netcoreapp3.1\03_StudentsByAge.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\bin\Debug\netcoreapp3.1\03_StudentsByAge.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\obj\Debug\netcoreapp3.1\03_StudentsByAge.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\obj\Debug\netcoreapp3.1\03_StudentsByAge.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\obj\Debug\netcoreapp3.1\03_StudentsByAge.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\obj\Debug\netcoreapp3.1\03_StudentsByAge.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\obj\Debug\netcoreapp3.1\03_StudentsByAge.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\obj\Debug\netcoreapp3.1\03_StudentsByAge.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\03_StudentsByAge\obj\Debug\netcoreapp3.1\03_StudentsByAge.genruntimeconfig.cache
