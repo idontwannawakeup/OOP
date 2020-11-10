@@ -3,25 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_StudentByGroup", "01_StudentByGroup\01_StudentByGroup.csproj", "{7CBE9612-1BA3-48E3-A803-FA2432FC8985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_StudentByGroup", "01_StudentByGroup\01_StudentByGroup.csproj", "{7CBE9612-1BA3-48E3-A803-FA2432FC8985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_StudentsByFirstAndLastName", "02_StudentsByFirstAndLastName\02_StudentsByFirstAndLastName.csproj", "{7141C2E5-17C0-43A8-8FFF-BCD221444611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_StudentsByFirstAndLastName", "02_StudentsByFirstAndLastName\02_StudentsByFirstAndLastName.csproj", "{7141C2E5-17C0-43A8-8FFF-BCD221444611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_StudentsByAge", "03_StudentsByAge\03_StudentsByAge.csproj", "{51BEC991-5850-4565-9989-A6560F8DD860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_StudentsByAge", "03_StudentsByAge\03_StudentsByAge.csproj", "{51BEC991-5850-4565-9989-A6560F8DD860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_SortStudents", "04_SortStudents\04_SortStudents.csproj", "{17F47A77-FFBB-4790-AE2C-525B407554DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_SortStudents", "04_SortStudents\04_SortStudents.csproj", "{17F47A77-FFBB-4790-AE2C-525B407554DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_FilterStudentsByEmailDomain", "05_FilterStudentsByEmailDomain\05_FilterStudentsByEmailDomain.csproj", "{83ABCF9C-D05F-4C2A-AB69-B9788B2B1C6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_FilterStudentsByEmailDomain", "05_FilterStudentsByEmailDomain\05_FilterStudentsByEmailDomain.csproj", "{83ABCF9C-D05F-4C2A-AB69-B9788B2B1C6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_FilterStudentsByPhone", "06_FilterStudentsByPhone\06_FilterStudentsByPhone.csproj", "{0C1D5766-844B-4D70-BBAD-2127686E6709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_FilterStudentsByPhone", "06_FilterStudentsByPhone\06_FilterStudentsByPhone.csproj", "{0C1D5766-844B-4D70-BBAD-2127686E6709}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ExcellentStudents", "07_ExcellentStudents\07_ExcellentStudents.csproj", "{0B427D17-D4F7-46AA-88D8-48FB5419B199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_ExcellentStudents", "07_ExcellentStudents\07_ExcellentStudents.csproj", "{0B427D17-D4F7-46AA-88D8-48FB5419B199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_WeakStudents", "08_WeakStudents\08_WeakStudents.csproj", "{AF401417-F439-4609-8BD3-97779E9A9179}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_WeakStudents", "08_WeakStudents\08_WeakStudents.csproj", "{AF401417-F439-4609-8BD3-97779E9A9179}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_StudentsEnrolledIn2014Or2015", "09_StudentsEnrolledIn2014Or2015\09_StudentsEnrolledIn2014Or2015.csproj", "{A3C0F675-358E-4DD2-B7EC-FBD5D9696CF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_StudentsEnrolledIn2014Or2015", "09_StudentsEnrolledIn2014Or2015\09_StudentsEnrolledIn2014Or2015.csproj", "{A3C0F675-358E-4DD2-B7EC-FBD5D9696CF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_GroupByGroup", "10_GroupByGroup\10_GroupByGroup.csproj", "{CD9CBA69-5209-43CD-9DF9-ECBC634649C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_GroupByGroup", "10_GroupByGroup\10_GroupByGroup.csproj", "{CD9CBA69-5209-43CD-9DF9-ECBC634649C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_StudentsJoinedToSpecialties", "11_StudentsJoinedToSpecialties\11_StudentsJoinedToSpecialties.csproj", "{150DB539-44E2-4933-95B4-559F443C7A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_OfficeStuff", "12_OfficeStuff\12_OfficeStuff.csproj", "{AFD6A2BF-B1EB-4220-AAA0-5DFDD181EC60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{CD9CBA69-5209-43CD-9DF9-ECBC634649C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD9CBA69-5209-43CD-9DF9-ECBC634649C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD9CBA69-5209-43CD-9DF9-ECBC634649C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150DB539-44E2-4933-95B4-559F443C7A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150DB539-44E2-4933-95B4-559F443C7A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150DB539-44E2-4933-95B4-559F443C7A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150DB539-44E2-4933-95B4-559F443C7A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFD6A2BF-B1EB-4220-AAA0-5DFDD181EC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD6A2BF-B1EB-4220-AAA0-5DFDD181EC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD6A2BF-B1EB-4220-AAA0-5DFDD181EC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD6A2BF-B1EB-4220-AAA0-5DFDD181EC60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

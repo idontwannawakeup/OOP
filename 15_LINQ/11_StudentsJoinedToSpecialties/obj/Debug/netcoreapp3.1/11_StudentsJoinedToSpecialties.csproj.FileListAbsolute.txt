@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\bin\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.exe
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\bin\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.deps.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\bin\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\bin\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\bin\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\bin\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\obj\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\obj\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\obj\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\obj\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\obj\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\11_StudentsJoinedToSpecialties\obj\Debug\netcoreapp3.1\11_StudentsJoinedToSpecialties.genruntimeconfig.cache

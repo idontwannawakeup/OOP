@@ -1,0 +1,13 @@
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\bin\Debug\netcoreapp3.1\12_OfficeStuff.exe
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\bin\Debug\netcoreapp3.1\12_OfficeStuff.deps.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\bin\Debug\netcoreapp3.1\12_OfficeStuff.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\bin\Debug\netcoreapp3.1\12_OfficeStuff.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\bin\Debug\netcoreapp3.1\12_OfficeStuff.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\bin\Debug\netcoreapp3.1\12_OfficeStuff.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\obj\Debug\netcoreapp3.1\12_OfficeStuff.csprojAssemblyReference.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\obj\Debug\netcoreapp3.1\12_OfficeStuff.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\obj\Debug\netcoreapp3.1\12_OfficeStuff.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\obj\Debug\netcoreapp3.1\12_OfficeStuff.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\obj\Debug\netcoreapp3.1\12_OfficeStuff.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\obj\Debug\netcoreapp3.1\12_OfficeStuff.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\12_OfficeStuff\obj\Debug\netcoreapp3.1\12_OfficeStuff.genruntimeconfig.cache
