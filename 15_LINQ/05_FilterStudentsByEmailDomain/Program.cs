@@ -1,9 +1,9 @@
-﻿using _01_StudentByGroup.Models;
+﻿using _05_FilterStudentsByEmailDomain.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _01_StudentByGroup
+namespace _05_FilterStudentsByEmailDomain
 {
     class Program
     {
@@ -17,8 +17,9 @@ namespace _01_StudentByGroup
                 input = Console.ReadLine();
             }
 
-            var filteredStudents = students.Where(element => element.Group == 2)
-                                           .OrderBy(element => element.FirstName);
+            var filteredStudents = students.Where(
+                    element => element.Email.EndsWith("@gmail.com")
+                );
 
             foreach (var item in filteredStudents)
                 Console.WriteLine(item);

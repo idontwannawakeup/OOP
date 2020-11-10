@@ -1,9 +1,9 @@
-﻿using _01_StudentByGroup.Models;
+﻿using _04_SortStudents.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _01_StudentByGroup
+namespace _04_SortStudents
 {
     class Program
     {
@@ -17,10 +17,10 @@ namespace _01_StudentByGroup
                 input = Console.ReadLine();
             }
 
-            var filteredStudents = students.Where(element => element.Group == 2)
-                                           .OrderBy(element => element.FirstName);
+            var sortedStudents = students.OrderBy(element => element.LastName)
+                                         .ThenByDescending(element => element.FirstName);
 
-            foreach (var item in filteredStudents)
+            foreach (var item in sortedStudents)
                 Console.WriteLine(item);
 
             Console.ReadKey();
