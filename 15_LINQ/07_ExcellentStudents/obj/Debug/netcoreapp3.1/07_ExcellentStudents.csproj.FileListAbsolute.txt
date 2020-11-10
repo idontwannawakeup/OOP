@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\bin\Debug\netcoreapp3.1\07_ExcellentStudents.exe
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\bin\Debug\netcoreapp3.1\07_ExcellentStudents.deps.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\bin\Debug\netcoreapp3.1\07_ExcellentStudents.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\bin\Debug\netcoreapp3.1\07_ExcellentStudents.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\bin\Debug\netcoreapp3.1\07_ExcellentStudents.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\bin\Debug\netcoreapp3.1\07_ExcellentStudents.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\obj\Debug\netcoreapp3.1\07_ExcellentStudents.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\obj\Debug\netcoreapp3.1\07_ExcellentStudents.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\obj\Debug\netcoreapp3.1\07_ExcellentStudents.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\obj\Debug\netcoreapp3.1\07_ExcellentStudents.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\obj\Debug\netcoreapp3.1\07_ExcellentStudents.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\07_ExcellentStudents\obj\Debug\netcoreapp3.1\07_ExcellentStudents.genruntimeconfig.cache

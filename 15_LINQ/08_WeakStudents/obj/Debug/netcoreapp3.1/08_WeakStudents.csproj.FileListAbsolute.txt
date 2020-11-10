@@ -1,0 +1,12 @@
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\bin\Debug\netcoreapp3.1\08_WeakStudents.exe
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\bin\Debug\netcoreapp3.1\08_WeakStudents.deps.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\bin\Debug\netcoreapp3.1\08_WeakStudents.runtimeconfig.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\bin\Debug\netcoreapp3.1\08_WeakStudents.runtimeconfig.dev.json
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\bin\Debug\netcoreapp3.1\08_WeakStudents.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\bin\Debug\netcoreapp3.1\08_WeakStudents.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\obj\Debug\netcoreapp3.1\08_WeakStudents.AssemblyInfoInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\obj\Debug\netcoreapp3.1\08_WeakStudents.AssemblyInfo.cs
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\obj\Debug\netcoreapp3.1\08_WeakStudents.csproj.CoreCompileInputs.cache
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\obj\Debug\netcoreapp3.1\08_WeakStudents.dll
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\obj\Debug\netcoreapp3.1\08_WeakStudents.pdb
+D:\Studying\OOP\GitHub_Labs\15_LINQ\08_WeakStudents\obj\Debug\netcoreapp3.1\08_WeakStudents.genruntimeconfig.cache
