@@ -17,13 +17,13 @@ namespace _03_StudentsByAge
                 input = Console.ReadLine();
             }
 
-            var filteredStudents
-                = students.Where(element => element.Age >= 18 && element.Age <= 24)
-                          .Select(element => new {
-                              element.FirstName,
-                              element.LastName,
-                              element.Age
-                          });
+            var filteredStudents = students
+                .Where(element => element.Age >= 18 && element.Age <= 24)
+                .Select(element => new {
+                    element.FirstName,
+                    element.LastName,
+                    element.Age
+                });
 
             foreach (var item in filteredStudents)
                 Console.WriteLine($"{item.FirstName} {item.LastName} {item.Age}");
