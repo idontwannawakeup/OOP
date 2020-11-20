@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_WorkForce", "04_WorkForc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_KingsGambitExtended", "05_KingsGambitExtended\05_KingsGambitExtended.csproj", "{8A163C04-8DDE-4456-A721-C68309835AEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_DependencyInversion", "03_DependencyInversion\03_DependencyInversion.csproj", "{3EC852F3-CA19-4101-9DC5-87D28DD22626}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8A163C04-8DDE-4456-A721-C68309835AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A163C04-8DDE-4456-A721-C68309835AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A163C04-8DDE-4456-A721-C68309835AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EC852F3-CA19-4101-9DC5-87D28DD22626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC852F3-CA19-4101-9DC5-87D28DD22626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC852F3-CA19-4101-9DC5-87D28DD22626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC852F3-CA19-4101-9DC5-87D28DD22626}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
