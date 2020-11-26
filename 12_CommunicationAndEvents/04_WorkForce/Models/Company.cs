@@ -36,12 +36,8 @@ namespace _04_WorkForce.Models
 
         public void UpdateJobs()
         {
-            try
-            {
-                foreach (var item in jobs)
-                    item.Update();
-            }
-            catch { }
+            for (int i = 0; i < jobs.Count; i++)
+                jobs[i].Update();
         }
     }
 }
