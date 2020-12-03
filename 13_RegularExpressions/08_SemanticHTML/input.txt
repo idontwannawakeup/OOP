@@ -1,0 +1,33 @@
+<div id="header">
+</div> <!-- header -->
+END
+
+<div style="color:red" id="header">
+</div> <!-- header -->
+END
+
+<div class="header"
+style="color:blue">
+</div> <!-- header -->
+END
+
+<div align="left" id="nav"
+style="color:blue">
+<ul class="header">
+ <li id="main">
+ Hi, I have id="main".
+ </li>
+</ul>
+</div> <!-- nav -->
+END
+
+<p class = "section" >
+ <div style = "border: 1px" id =
+"header" >
+ Header
+ <div id = "nav" >
+ Nav
+ </div> <!-- nav -->
+ </div> <!--header-->
+</p> <!-- end paragraph section -->
+END

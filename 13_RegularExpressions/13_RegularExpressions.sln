@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MatchFullName", "01_MatchFullName\01_MatchFullName.csproj", "{B0C55C72-9671-4491-BED2-27C4CA0F9073}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_MatchFullName", "01_MatchFullName\01_MatchFullName.csproj", "{B0C55C72-9671-4491-BED2-27C4CA0F9073}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_MatchPhoneNumber", "02_MatchPhoneNumber\02_MatchPhoneNumber.csproj", "{58824A2A-1C39-47CC-BEBF-E876355E45DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_MatchPhoneNumber", "02_MatchPhoneNumber\02_MatchPhoneNumber.csproj", "{58824A2A-1C39-47CC-BEBF-E876355E45DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_SeriesOfLetters", "03_SeriesOfLetters\03_SeriesOfLetters.csproj", "{CB4C72A6-E6DA-4AEB-AA81-FC1D842A71C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_SeriesOfLetters", "03_SeriesOfLetters\03_SeriesOfLetters.csproj", "{CB4C72A6-E6DA-4AEB-AA81-FC1D842A71C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ReplaceTag", "04_ReplaceTag\04_ReplaceTag.csproj", "{14B5FA9C-BA67-48C1-9CD9-2CD04B5095E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ReplaceTag", "04_ReplaceTag\04_ReplaceTag.csproj", "{14B5FA9C-BA67-48C1-9CD9-2CD04B5095E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_ExtractEmails", "05_ExtractEmails\05_ExtractEmails.csproj", "{D47AC76D-CFE9-40E3-831F-4D2F13AD33A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_ExtractEmails", "05_ExtractEmails\05_ExtractEmails.csproj", "{D47AC76D-CFE9-40E3-831F-4D2F13AD33A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_SentenceExtractor", "06_SentenceExtractor\06_SentenceExtractor.csproj", "{60244659-4E43-41C4-A9F7-888D830D36DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_SentenceExtractor", "06_SentenceExtractor\06_SentenceExtractor.csproj", "{60244659-4E43-41C4-A9F7-888D830D36DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ValidUsernames", "07_ValidUsernames\07_ValidUsernames.csproj", "{43832C95-34B2-4D55-817A-64A99EA2EE19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_SemanticHTML", "08_SemanticHTML\08_SemanticHTML.csproj", "{993E7538-8E9F-434E-AC1C-11E1693A2541}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{60244659-4E43-41C4-A9F7-888D830D36DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60244659-4E43-41C4-A9F7-888D830D36DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60244659-4E43-41C4-A9F7-888D830D36DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43832C95-34B2-4D55-817A-64A99EA2EE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43832C95-34B2-4D55-817A-64A99EA2EE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43832C95-34B2-4D55-817A-64A99EA2EE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43832C95-34B2-4D55-817A-64A99EA2EE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993E7538-8E9F-434E-AC1C-11E1693A2541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993E7538-8E9F-434E-AC1C-11E1693A2541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993E7538-8E9F-434E-AC1C-11E1693A2541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993E7538-8E9F-434E-AC1C-11E1693A2541}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
