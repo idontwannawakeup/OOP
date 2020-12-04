@@ -1,0 +1,7 @@
+C# is not C++, and PHP is not Delphi!
+
+The quick brown fox jumps over the lazy dog /Yes! Really!!!/.
+
+Pack my box (with 5 dozen liquor jugs).
+
+var separators = sentence.Split(letters, StringSplitOptions.RemoveEmptyEntries);

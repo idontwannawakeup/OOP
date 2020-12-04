@@ -1,0 +1,5 @@
+Welcome to SoftUni!
+
+A "regular expression" (abbreviated regex or regexp) is a sequence of characters that forms a search pattern.
+
+C#
