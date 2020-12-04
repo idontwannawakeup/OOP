@@ -8,8 +8,8 @@
         public IUnit CreateUnit(string unitType)
         {
             string unitsNamespace = @"_03_BarracksWars_ANewFactory.Models.Units";
-            string fullType = $"{unitsNamespace}.{unitType}";
-            return (IUnit)Type.GetType(fullType).Assembly.CreateInstance(fullType);
+            string fullTypeName = $"{unitsNamespace}.{unitType}";
+            return (IUnit)Activator.CreateInstance(Type.GetType(fullTypeName));
         }
     }
 }
