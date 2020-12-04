@@ -15,13 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_URLParser", "05_URLParse
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_ ReverseTheWordsInASentence", "06_ ReverseTheWordsInASentence\06_ ReverseTheWordsInASentence.csproj", "{1086A0B5-6E23-4997-A313-D1FC1E41ECB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ChangeToUppercase", "07_ChangeToUppercase\07_ChangeToUppercase.csproj", "{D9434575-7D46-48F6-A370-7B76B110C7B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07_ChangeToUppercase", "07_ChangeToUppercase\07_ChangeToUppercase.csproj", "{D9434575-7D46-48F6-A370-7B76B110C7B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Palindromes", "08_Palindromes\08_Palindromes.csproj", "{21AD1BF6-6B76-422C-B0DC-96A331A70208}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_Palindromes", "08_Palindromes\08_Palindromes.csproj", "{21AD1BF6-6B76-422C-B0DC-96A331A70208}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Capitalization", "09_Capitalization\09_Capitalization.csproj", "{D4266175-4B89-40B8-A64E-C283D8A7FE25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_Capitalization", "09_Capitalization\09_Capitalization.csproj", "{D4266175-4B89-40B8-A64E-C283D8A7FE25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_PalindromeIndex", "10_PalindromeIndex\10_PalindromeIndex.csproj", "{2F04D9CF-F141-4820-996B-6A2656CCB38E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_PalindromeIndex", "10_PalindromeIndex\10_PalindromeIndex.csproj", "{2F04D9CF-F141-4820-996B-6A2656CCB38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_CommonStrings", "11_CommonStrings\11_CommonStrings.csproj", "{0A7CBAC3-D3B4-47FA-8BB3-B78B2B7FBB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_Phonebook", "12_Phonebook\12_Phonebook.csproj", "{F3A02137-AD17-4D74-B46E-3F5F632CA31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_PhonebookUpgrade", "13_PhonebookUpgrade\13_PhonebookUpgrade.csproj", "{16BA7483-6ADD-482F-90C1-D116E0F0A09B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{2F04D9CF-F141-4820-996B-6A2656CCB38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F04D9CF-F141-4820-996B-6A2656CCB38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F04D9CF-F141-4820-996B-6A2656CCB38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7CBAC3-D3B4-47FA-8BB3-B78B2B7FBB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7CBAC3-D3B4-47FA-8BB3-B78B2B7FBB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7CBAC3-D3B4-47FA-8BB3-B78B2B7FBB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7CBAC3-D3B4-47FA-8BB3-B78B2B7FBB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A02137-AD17-4D74-B46E-3F5F632CA31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A02137-AD17-4D74-B46E-3F5F632CA31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A02137-AD17-4D74-B46E-3F5F632CA31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A02137-AD17-4D74-B46E-3F5F632CA31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16BA7483-6ADD-482F-90C1-D116E0F0A09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BA7483-6ADD-482F-90C1-D116E0F0A09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BA7483-6ADD-482F-90C1-D116E0F0A09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BA7483-6ADD-482F-90C1-D116E0F0A09B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
