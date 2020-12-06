@@ -1,5 +1,6 @@
 ﻿namespace _09_Refactoring.Models.Weapons
 {
+    using Enums;
     using Interfaces;
     using MagicalStates;
     using System;
@@ -78,26 +79,21 @@
             return totalBonusForState;
         }
 
-        private int CalculateModifiedMinDamage()
-        {
-            int modified = this.rawMinDamage * this.WeaponRarity.DamageModifier;
+        private int CalculateModifiedMinDamage() =>
+            CalculateDamage(this.rawMinDamage, DamageRange.Min);
 
-            modified += this.magicalStates.Sum(state =>
-                state.AdditionToMinDamage * GetTotalBonusForState(state.GetType())
+        private int CalculateModifiedMaxDamage() =>
+            CalculateDamage(this.rawMaxDamage, DamageRange.Max);
+
+        private int CalculateDamage(int rawDamage, DamageRange damageRange)
+        {
+            int modifiedDamage = rawDamage * this.WeaponRarity.DamageModifier;
+            modifiedDamage += this.magicalStates.Sum
+            (
+                state => state.Additions[damageRange] * GetTotalBonusForState(state.GetType())
             );
 
-            return modified;
-        }
-
-        private int CalculateModifiedMaxDamage()
-        {
-            int modified = this.rawMaxDamage * this.WeaponRarity.DamageModifier;
-
-            modified += this.magicalStates.Sum(state =>
-                state.AdditionToMaxDamage * GetTotalBonusForState(state.GetType())
-            );
-
-            return modified;
+            return modifiedDamage;
         }
 
         public Weapon
