@@ -3,6 +3,7 @@
     using Enums;
     using Interfaces;
     using MagicalStates;
+    using Models.Gems;
     using System;
     using System.Linq;
     using System.Text;
@@ -66,18 +67,11 @@
         public void RemoveGemFromSocket(int index)
         {
             if (index >= 0 && index < this.gems.Length)
-                this.gems[index] = null;
+                this.gems[index] = new EmptyGem();
         }
 
-        private int GetTotalBonusForState(Type magicalState)
-        {
-            int totalBonusForState = 0;
-            foreach (IGem gem in this.gems)
-                if (gem != null)
-                    totalBonusForState += gem.GetBonusForStat(magicalState);
-
-            return totalBonusForState;
-        }
+        private int GetTotalBonusForState(Type magicalState) =>
+            this.gems.Sum(element => element.GetBonusForStat(magicalState));
 
         private int CalculateModifiedMinDamage() =>
             CalculateDamage(this.rawMinDamage, DamageRange.Min);
@@ -110,6 +104,8 @@
             this.rawMinDamage = rawMinDamage;
             this.rawMaxDamage = rawMaxDamage;
             this.gems = new IGem[socketsAmount];
+            for (int i = 0; i < this.gems.Length; i++)
+                this.gems[i] = new EmptyGem();
         }
     }
 }
